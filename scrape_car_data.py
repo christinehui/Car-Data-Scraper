@@ -31,15 +31,15 @@ def scrape_car_data(page_number):
         car_response = requests.get(car_url)
         car_soup = BeautifulSoup(car_response.content, 'html.parser')
 
-        # Find the mileage
+        # Find the mileage and other specs
         car_specs = car_soup.find('dl', class_='fancy-description-list')
-        car_mileage = None
+        specs_dict = {}
         for term, desc in zip(car_specs.find_all('dt'), car_specs.find_all('dd')):
-            if term.text.strip() == 'Mileage':
-                car_mileage = desc.text.strip()
-                break
+            spec_name = term.text.strip()
+            if spec_name in ['Exterior color', 'Interior color', 'Drivetrain', 'Fuel type', 'Transmission', 'Engine', 'VIN', 'Mileage']:
+                specs_dict[spec_name] = desc.text.strip()
 
-        car_data.append([car_name, car_price, car_mileage])
+        car_data.append([car_name, car_price, specs_dict.get('Mileage'), specs_dict.get('Exterior color'), specs_dict.get('Interior color'), specs_dict.get('Drivetrain'), specs_dict.get('Fuel type'), specs_dict.get('Transmission'), specs_dict.get('Engine'), specs_dict.get('VIN')])
 
         # Optional: add a delay between requests to avoid getting blocked
         time.sleep(1)
@@ -60,5 +60,5 @@ print(f"Total car data: {all_car_data}")
 #Write the data to a CSV file
 with open('car_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(["Car Name", "Car Price", "Car Mileage"])  # write the header
+    writer.writerow(["Car Name", "Car Price", "Car Mileage", "Exterior Color", "Interior Color", "Drivetrain", "Fuel Type", "Transmission", "Engine", "VIN"])  # write the header
     writer.writerows(all_car_data)  # write the data
