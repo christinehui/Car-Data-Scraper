@@ -46,9 +46,9 @@ def scrape_car_data(page_number):
 
     return car_data
 
-#Scrape data from the first 5 pages.
+#Scrape data from the first 30 pages.
 all_car_data = []
-for page_number in range(1, 6):
+for page_number in range(1, 31):
     car_data = scrape_car_data(page_number)
     all_car_data.extend(car_data)  # Add the data from this page to the total
     print(f"Page {page_number} car data: {car_data}")

@@ -1,0 +1,600 @@
+Car Name,Car Price,Car Mileage,Exterior Color,Interior Color,Drivetrain,Fuel Type,Transmission,Engine,VIN
+2022 Ford Transit Connect XL,"$34,455",1 mi.,Frozen White,Ebony,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC,NM0GS9E21N1543458
+2022 Ford F-150 XLT,"$66,398","5,348 mi.",Atlas Blue Metallic,Black,Four-wheel Drive,Gasoline,–,2.7L V6 24V PDI DOHC Twin Turbo,1FTEW1EP3NKD56356
+2023 Hyundai IONIQ 5 Limited,"$61,510",110 mi.,Gray,Black,AWD,Electric,1-Speed Automatic,Electric,KM8KRDAFXPU154514
+2023 Kia K5 LXS,"$27,275",16 mi.,Silver,–,Front-wheel Drive,Gasoline,8-Speed Automatic,1.6L I4 16V GDI DOHC Turbo,5XXG14J2XPG219558
+2023 Kia Sorento SX,"$42,355",5 mi.,Gray,–,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC Turbo,5XYRKDLF5PG198605
+2023 Honda Accord Hybrid Sport,"$33,445",10 mi.,Urban Gray,Black,FWD,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,1HGCY2F57PA014682
+2023 Lincoln Aviator Reserve AWD,"$77,920",23 mi.,Ceramic Pearl Metallic,Sandstone,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J7XC3PGL20855
+2023 Hyundai IONIQ 5 SEL,"$53,820",7 mi.,Cyber Gray,Black,All-wheel Drive,Electric,Automatic,Electric,KM8KNDAF4PU156285
+2021 Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium,"$38,285","13,152 mi.",Pure Gray,Titan Black / Quarzit,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,1V2TE2CA2MC213291
+2023 Kia Seltos EX,"$28,140",–,Neptune Blue,Black,All-wheel Drive,Gasoline,IVT,2.0L I4 16V MPFI DOHC,KNDERCAA8P7461081
+2020 Nissan Armada SV,"$28,200","62,680 mi.",Gray,Steel,Four-wheel Drive,Gasoline,7-Speed Automatic,5.6L V8 32V GDI DOHC,JN8AY2NC7L9617069
+2016 Nissan Leaf S,"$13,990","15,886 mi.",Black,Black,Front-wheel Drive,Electric,1-Speed Automatic,Electric,1N4AZ0CP2GC311544
+2020 BMW X5 sDrive40i,"$42,449","37,155 mi.",Mineral White Metallic,Ivory White,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,5UXCR4C0XL9B99503
+2020 Jeep Grand Cherokee Laredo E,"$28,882","38,375 mi.",Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJFAG2LC209360
+2022 Ford Bronco Sport Big Bend,"$31,375",37 mi.,Carbonized Gray Metallic,Ebony,Four-wheel Drive,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,3FMCR9B67NRE21385
+2023 GMC Sierra 2500 SLE,"$71,120",5 mi.,Summit White,Jet Black,Four-wheel Drive,Diesel,Automatic,"Duramax 6.6L V-8 diesel direct injection, intercooled turbo, die",1GT49MEY0PF260628
+2023 GMC Sierra 1500 Elevation,"$53,470",5 mi.,Summit White,Jet Black,Four-wheel Drive,Gasoline,Automatic,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",1GTRUCED4PZ256608
+2019 Jeep Grand Cherokee Limited,"$27,800","51,791 mi.",Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, engine with 293",1C4RJFBG6KC819436
+2023 Audi A5 45 S line Premium Plus,"$55,490",12 mi.,Ibis White,Black,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,WAUFACF50PA043900
+2023 Audi A3 Premium,"$40,540",15 mi.,Manhattan Gray Metallic,Black,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,WAUAUDGY9PA084980
+2023 RAM 2500 Big Horn Crew Cab 4x4 6'4' Box,"$60,540",33 mi.,Billet Silver Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive,Gasoline,Automatic,"HEMI 6.4L V-8 VVT variable valve control, engine with cylinder d",3C6UR5DJXPG570494
+2023 RAM 2500 Laramie Crew Cab 4x4 6'4' Box,"$79,209",16 mi.,Delmonico Red Pearlcoat,Light Frost Beige/Mountain Brown,Four-wheel Drive,Diesel,Automatic,"Cummins 6.7L I-6 diesel direct injection, VVT intercooled turbo,",3C6UR5FL8PG570461
+2023 BMW iX xDrive50,"$99,195",11 mi.,Storm Bay Metallic,Black,All-wheel Drive,Electric,Automatic,Electric,WB523CF07PCM96766
+2022 BMW i4 Gran Coupe M50,"$68,595",17 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Electric,Automatic,Electric,WBY33AW08NFM54694
+2023 BMW i4 Gran Coupe eDrive35,"$58,295",7 mi.,Skyscraper Gray Metallic,Black,RWD,Electric,Automatic,Electric,WBY43AW09PFP85162
+2019 Mercedes-Benz AMG GLE 63 S 4MATIC Coupe,"$75,793","26,920 mi.",Lunar Blue Metallic,Black,All-wheel Drive,Gasoline,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo,4JGED7FB2KA150065
+2021 Audi SQ8 4.0T Prestige,"$84,990","24,565 mi.",Glacier White Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WA1CWBF15MD002343
+2015 Porsche 911 Carrera S,"$67,553","47,253 mi.",White,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.8L H6 24V GDI DOHC,WP0AB2A99FS125891
+2019 Maserati Quattroporte S,"$44,560","20,710 mi.",Nero,Nero,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,ZAM56YPA0K1315987
+2017 Mercedes-Benz SLC 300 Base,"$27,346","60,652 mi.",Polar White,Shara Beige,Rear-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,WDDPK3JA5HF141212
+2023 Cadillac CT4-V Blackwing,"$75,689",5 mi.,Argent Silver Metallic,Jet Black,Rear-wheel Drive,Gasoline,Automatic,Turbocharged V6 3.6L/217,1G6DL5RP9P0410718
+2023 Chevrolet Colorado WT,"$34,590",10 mi.,Glacier Blue Metallic,Jet Black,Four-wheel Drive,Gasoline,–,2.7L I4 16V GDI DOHC Turbo,1GCGTBEC3P1144621
+2023 Nissan Frontier PRO-4X,"$47,351",50 mi.,Boulder Gray Pearl,Steel,Four-wheel Drive,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1N6ED1EK9PN617224
+2023 Hyundai Palisade SEL,"$47,860",12 mi.,Abyss Black Pearl,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,KM8R4DGE2PU598935
+2023 GMC Sierra 2500 Denali,"$104,288",6 mi.,Onyx Black,Jet Black,Four-wheel Drive,Diesel,Automatic,6.6L V8 32V DDI OHV Turbo Diesel,1GT49REY2PF204719
+2019 Audi RS 5 2.9T,"$61,000","30,369 mi.",Navarra Blue Metallic,Black / Crescendo Red,All-wheel Drive,Gasoline,8-Speed Automatic,2.9L V6 24V GDI DOHC Twin Turbo,WUABWCF58KA903718
+2022 Toyota Tundra Hybrid TRD Pro,"$76,000","13,160 mi.",White,Red,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFPC5DB0NX003039
+2017 Ford F-250 King Ranch,"$44,000","97,497 mi.",White Platinum Tri-Coat Metallic,Java,Four-wheel Drive,E85 Flex Fuel,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,1FT7W2B61HEF11788
+2023 Genesis GV70 2.5T,"$54,640",10 mi.,Vik Black,Obsidian Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC Turbo,KMUMADTB7PU116279
+2016 Hyundai Veloster Base,"$13,635","101,127 mi.",Century White,Black,Front-wheel Drive,Gasoline,6-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC,KMHTC6AD3GU299782
+2023 Honda Ridgeline RTL,"$43,410",10 mi.,Crystal Black Pearl,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F57PB032030
+2023 Nissan Titan XD PRO-4X,"$63,477",9 mi.,Glacier White,Black,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1N6AA1FB0PN103297
+2023 GMC Sierra 1500 SLE,"$59,210",3 mi.,Summit White,Jet Black,Four-wheel Drive,Diesel,Automatic,Turbocharged Diesel I6 3.0L/,1GTUUBE88PZ258384
+2023 Chevrolet Suburban LT,"$73,235",1 mi.,Black,Jet Black,Four-wheel Drive,Gasoline,OTHER,5.3L V8 16V GDI OHV,1GNSKCKD5PR339581
+2019 Maserati Ghibli S Q4,"$39,968","31,328 mi.",Bianco,Cuoio,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6,ZAM57YTA4K1324968
+2013 Chevrolet Impala LTZ,"$14,988","55,000 mi.",Ashen Gray Metallic,Ebony,Front-wheel Drive,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",2G1WC5E38D1209524
+2023 Nissan Titan PRO-4X,"$59,469",4 mi.,Black,Black,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1N6AA1EDXPN100913
+2021 Genesis G70 2.0T,"$34,995","7,180 mi.",Mallorca Blue,Black Gray,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,KMTG34LA8MU073621
+2015 Chevrolet Trax LTZ,"$12,945","105,822 mi.",Black Granite Metallic,Jet Black,Front-wheel Drive,Gasoline,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo,3GNCJNSB6FL192078
+2021 Hyundai Kona Limited,"$23,337","34,600 mi.",Ultra Black,Black,Front-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC Turbo,KM8K33A52MU705601
+2019 Honda Odyssey EX,"$29,835","43,889 mi.",Modern Steel Metallic,Gray,Front-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H5XKB017801
+2021 Honda Ridgeline Sport,"$33,998","23,365 mi.",Radiant Red Metallic II,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F14MB012973
+2020 Honda Civic Type R Touring,"$38,864","63,070 mi.",Rallye Red,Black / Red,Front-wheel Drive,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G73LU201563
+2019 Honda Civic Sport,"$18,118","135,229 mi.",Sonic Gray Pearl,Black,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H43KU207070
+2022 RAM 2500 Laramie,"$80,855",91 mi.,Diamond Black,Black,Four-wheel Drive,Diesel,Automatic,6.7L I6 24V DDI OHV Turbo Diesel,3C6UR5FL4NG393534
+2023 Jeep Wagoneer L Series III,"$86,745",5 mi.,Metallic,Global Black,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1C4SJSDP4PS541513
+2023 Ford F-150 Lightning Platinum,"$96,624",–,Agate Black Metallic,–,All-wheel Drive,Electric,SINGLE SPEED,Electric,1FT6W1EV5PWG05982
+2021 Ford Mustang Mach-E Premium,"$49,399","19,126 mi.",Shadow Black,–,All-wheel Drive,Electric,1-Speed Automatic,Electric,3FMTK3SU9MMA03745
+2019 Mercedes-Benz GLS 450 Base 4MATIC,"$42,495","46,650 mi.",Black,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,4JGDF6EE5KB193286
+2022 Ford F-150 King Ranch,"$69,995",209 mi.,Vermillion Red,Java,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,1FTFW1ED6NFC18328
+2023 Kia Carnival EX,"$40,405",16 mi.,Flare Red,Gray,Front-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,KNDNC5H33P6296146
+2023 Honda Passport TrailSport,"$45,290",8 mi.,Radiant Red Metallic,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H63PB004757
+2023 Nissan Pathfinder Platinum,"$51,124",1 mi.,Brilliant Silver Metallic,Charcoal,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5N1DR3DK3PC222945
+2023 Nissan Pathfinder Platinum,"$52,045",1 mi.,2 Tone Gun / Black Roof,Chestnut,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5N1DR3DK5PC221540
+2020 Hyundai Sonata SE,"$20,870","30,276 mi.",Quartz White,Dark Gray,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,5NPEG4JA2LH039566
+2023 Mazda Mazda3 2.5 Turbo AWD,"$34,625",5 mi.,Soul Red Crystal Metallic,Black,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,JM1BPBJYXP1611453
+2023 Kia Telluride EX,"$47,050",3 mi.,Dark Moss,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",5XYP3DGC8PG381405
+2023 Kia EV6 GT-Line,"$59,595",16 mi.,Snow White Pearl,Black,All-wheel Drive,Electric,Automatic,Electric ZEV 320hp,KNDC4DLCXP5110677
+2023 Kia Telluride SX,"$53,845",3 mi.,Wolf Gray,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",5XYP5DGC7PG381499
+2023 Audi Q8 55 Premium,"$79,315",10 mi.,Mythos Black Metallic,Okapi Brown,All-wheel Drive,Gasoline,Automatic with Tiptronic,3.0L V6 24V GDI DOHC Turbo,WA1AVBF14PD023313
+2023 BMW XM ,"$159,995",17 mi.,Toronto Red Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8,5YM23CS06P9R58443
+2023 BMW X3 xDrive30i,"$54,595",5 mi.,Skyscraper Gray Metallic,Tacora Red,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,5UX53DP04P9R77091
+2023 Ford F-150 Tremor,"$60,160",3 mi.,Avalanche Gray,Black,Four-wheel Drive,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1FTFW1E52PFB14494
+2023 Nissan Pathfinder SL,"$41,906",6 mi.,Scarlet Ember,Charcoal,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5N1DR3CC1PC206818
+2022 Ford F-150 Tremor,"$67,465",32 mi.,Agate Black Metallic,Black,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FTEW1E87NFC09264
+2013 Chevrolet Cruze 1LT,"$9,995","102,303 mi.",Silver Ice Metallic,Jet Black / Red,Front-wheel Drive,Gasoline,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo,1G1PC5SB6D7190071
+2023 Ford Mustang Mach-E GT,"$69,435","2,650 mi.",Space White Metallic,Black Onyx,All-wheel Drive,Electric,SINGLE SPEED,Electric,3FMTK4SEXPMA12408
+2023 Genesis GV70 2.5T,"$55,085",10 mi.,Melbourne Gray,Pine Grove,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC Turbo,KMUMADTB8PU119613
+2023 Jeep Wagoneer L Series III,"$79,355",29 mi.,Silver Zynith,Global Black,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1C4SJSDP8PS503198
+2022 Dodge Charger SXT,"$29,130","1,018 mi.",F8 Green,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDXBG2NH235351
+2022 Dodge Challenger R/T,"$40,477",17 mi.,Frostbite,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,2C3CDZBT3NH212041
+2022 Dodge Challenger R/T,"$38,977",12 mi.,Pitch Black Clearcoat,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,2C3CDZBT9NH206860
+2023 Kia Sportage EX,"$30,280",16 mi.,Gravity Gray,Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,5XYK33AFXPG118999
+2021 Honda Odyssey LX,"$33,015","97,671 mi.",Silver Metallic,–,Front-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H2XMB033327
+2023 Kia Telluride EX,"$45,575",11 mi.,Ebony Black,–,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP3DGC0PG394908
+2020 Nissan Armada SL,"$32,300","62,535 mi.",Super Black,Black,Four-wheel Drive,Gasoline,7-Speed Automatic,5.6L V8 32V GDI DOHC,JN8AY2NC1LX519442
+2023 Mazda CX-50 2.5 S Preferred Plus Package,"$34,560",3 mi.,Wind Chill Pearl,Black,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,7MMVABCM2PN144014
+2023 Kia Stinger GT-Line,"$42,435",13 mi.,Snow White Pearl,Black,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,KNAE35LD4P6131316
+2023 Ford Bronco Black Diamond,"$44,360",9 mi.,Iconic Silver Metallic,Black Onyx,Four-wheel Drive,Gasoline,7-Speed Manual,2.3L I4 16V GDI DOHC Turbo,1FMDE5BH5PLB26247
+2023 Kia EV6 GT-Line,"$59,410",3 mi.,Yacht Blue,Black,All-wheel Drive,Electric,Automatic,Electric ZEV 320hp,KNDC4DLC6P5119490
+2023 Kia Stinger GT2,"$55,935",3 mi.,Ceramic Silver,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.3L V-6 gasoline direct injection, DOHC, D-CVVT varia",KNAE55LC1P6134563
+2023 Buick Encore GX Select,"$28,955",5 mi.,Sapphire Metallic,Ebony w/Ebony Accents,All-wheel Drive,Gasoline,Automatic,"ECOTEC 1.3L I-3 gasoline direct injection, DOHC, variable valve",KL4MMESL9PB127090
+2024 BMW X7 xDrive40i,"$91,945",11 mi.,Mineral White Metallic,Tartufo,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM07R9S32903
+2023 Genesis G70 3.3T,"$53,130",43 mi.,Vik Black,Obsidian Black,All-wheel Drive,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KMTG54TE0PU119623
+2023 Hyundai Elantra N Line,"$28,665",51 mi.,Onyx Black,Black,Front-wheel Drive,Gasoline,Automatic,1.6L I4 16V GDI DOHC Turbo,KMHLR4AF5PU520447
+2015 Audi A7 3.0T Prestige,"$25,748","76,273 mi.",Daytona Gray Pearl,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,WAU2GAFC1FN002893
+2023 Chevrolet Traverse RS,"$46,120",0 mi.,Sterling Gray Metallic,Jet Black / Spice Red,Front-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,1GNERJKW1PJ228152
+2023 GMC Yukon XL SLT,"$74,666",1 mi.,Onyx Black,Jet Black,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,1GKS2GKD1PR335516
+2023 Kia Niro EX Touring,"$33,050",10 mi.,Green,Charcoal,Front-wheel Drive,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Hybrid,KNDCR3LE4P5088060
+2023 Kia Telluride S,"$41,380",5 mi.,Gravity Gray,Black,AWD,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP6DGC5PG395060
+2022 Kia Telluride SX,"$49,790","11,974 mi.",Gravity Gray,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP5DHC3NG282092
+2023 Kia Telluride EX,"$44,645",16 mi.,Ebony Black,Gray,Front-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP34GC5PG390045
+2023 Honda Civic Sport Touring,"$32,500",–,Platinum White,Black,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H82PE008121
+2023 Kia Telluride SX X-Line,"$51,705",11 mi.,Glacial White Pearl,–,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP5DGC0PG394286
+2021 Dodge Durango GT,"$34,500","51,456 mi.",White Knuckle Clearcoat,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RDJDG3MC634089
+2023 Kia Telluride SX-Prestige,"$51,955",16 mi.,Gray,–,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP5DGC2PG395469
+2018 Maserati Ghibli S Q4,"$30,500","57,056 mi.",Blu Passione Mica,Cuoio,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,ZAM57YTA8J1269505
+2022 Genesis GV80 2.5T,"$61,995","11,962 mi.",Himalayan Gray,Black,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,KMUHBDSBXNU095702
+2017 Kia Cadenza Premium,"$21,985","34,377 mi.",Silky Silver,Black,Front-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC,KNALB4J12H5036497
+2023 GMC Sierra 1500 SLE,"$59,210",3 mi.,Summit White,Jet Black,Four-wheel Drive,Diesel,Automatic,Turbocharged Diesel I6 3.0L/,1GTUUBE82PZ257795
+2023 BMW 540 i xDrive,"$71,735",2 mi.,Aventurin Red Metallic,Black,AWD,Gasoline,Automatic,3.0L I6 24V GDI DOHC Turbo,WBA73BJ09PCN04391
+2023 Kia Forte GT-Line,"$26,355",18 mi.,Aurora Black,Black,Front-wheel Drive,Gasoline,Automatic,"2L I-4 DOHC, D-CVVT variable valve control, engine with 147HP",3KPF54ADXPE618660
+2023 BMW X3 xDrive30i,"$53,995",10 mi.,Skyscraper Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,WBX57DP02PN210579
+2019 BMW X2 M35i,"$36,995","23,176 mi.",Alpine White,Magma Red,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,WBXYN1C55K5N78783
+2024 BMW X7 xDrive40i,"$94,445",3 mi.,Manhattan Green Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM08R9S34403
+2023 Chevrolet Camaro 1LS,"$28,715",10 mi.,Black,Jet Black,Rear-wheel Drive,Gasoline,–,2.0L I4 16V GDI DOHC Turbo,1G1FB1RX0P0140420
+2023 Chevrolet Silverado 1500 LT,"$51,797",5 mi.,Sterling Gray Metallic,Jet Black,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,1GCRDDED0PZ245725
+2019 Dodge Durango Citadel,"$34,000","39,933 mi.",Vice White,Sepia / Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RDHEG5KC674047
+2020 Toyota RAV4 TRD Off Road,"$33,905","25,624 mi.",Magnetic Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,2T3J1RFV5LC089395
+2023 Hyundai Tucson SEL,"$33,870",10 mi.,Amazon Gray,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,5NMJFCAE4PH250432
+2019 Ford Expedition Max XLT,"$36,998","85,547 mi.",Agate Black Metallic,Ebony,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC Twin Turbo,1FMJK1JT7KEA21197
+2019 Buick Regal Sportback Preferred II,"$21,990","41,315 mi.",White Frost Tricoat,Ebony,Front-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.0L/122,W04GM6SX0K1040683
+2014 Audi S5 Premium Plus,"$23,990","76,346 mi.",Ice Silver Metallic,Black,All-wheel Drive,Gasoline,Automatic,Intercooled Supercharger Premium Unleaded V-6 3.0 L/183,WAUCGAFR5EA022742
+2019 Nissan Murano SL,"$29,800","14,329 mi.",Magnetic Black,Graphite,All-wheel Drive,Gasoline,Automatic CVT,3.5L V6 24V MPFI DOHC,5N1AZ2MS3KN145908
+2023 Chevrolet Camaro 2SS,"$55,755",3 mi.,Rapid Blue,Jet Black,Rear-wheel Drive,Gasoline,6-Speed Manual,6.2L V8 16V GDI OHV,1G1FG3D77P0122744
+2018 Audi S8 4.0T Plus,"$73,950","28,594 mi.",Ibis White,Lunar Silver,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WUAJ5AFD3JN900033
+2014 INFINITI Q50 Premium,"$19,955","72,401 mi.",Liquid Platinum,Graphite,All-wheel Drive,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,JN1BV7AR7EM700942
+2023 Ford Mustang Mach-E GT,"$68,395",2 mi.,Shadow Black,Gray,All-wheel Drive,Electric,Automatic,Electric,3FMTK4SX4PMA12499
+2023 Volkswagen Tiguan 2.0T S,"$28,557","2,146 mi.",Pure White,Titan Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3VVRB7AX0PM035443
+2019 Land Rover Range Rover Velar P250 SE R-Dynamic,"$43,950","50,935 mi.",Indus Silver,Ebony / Ebony,Four-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,SALYL2EX0KA200961
+2023 Cadillac XT4 AWD Sport,"$50,054",5 mi.,Stellar Black Metallic,Jet Black with Cinnamon accents,All-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.0L/122,1GYFZFR45PF189187
+2023 Chevrolet Silverado 1500 High Country,"$74,325",0 mi.,Dark Ash Metallic,Jet Black,Four-wheel Drive,Diesel,Automatic,Turbocharged Diesel I6 3.0L/,1GCUDJE80PZ250905
+2020 Volkswagen Atlas Cross Sport 2.0T SEL,"$35,500","20,706 mi.",Pure Gray,Mauro Brown,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1V2MC2CA7LC216471
+2017 Audi R8 5.2 quattro Plus,"$164,407","5,826 mi.",Ara Blue Crystal Effect,Rotor Gray,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,5.2L V10 40V PDI DOHC,WUAKBAFXXH7903291
+2020 Chrysler 300 S,"$35,998","17,027 mi.",Black,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,2C3CCABT0LH180828
+2014 Maserati GranTurismo Sport,"$30,000","61,466 mi.",Bianco Birdcage Pearlescent,Beige,Rear-wheel Drive,Gasoline,6-Speed Automatic,4.7L V8 32V MPFI DOHC,ZAM45VLA8E0122242
+2019 Mazda Mazda6 Signature,"$29,995","6,673 mi.",Soul Red Crystal,Deep Chestnut,Front-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,JM1GL1XYXK1506522
+2017 Nissan 370Z Sport,"$22,995","92,387 mi.",White,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,JN1AZ4EH0HM951841
+2023 GMC Yukon AT4,"$82,025",7 mi.,Sterling,Jet Black,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,1GKS2CKL1PR344085
+2020 Jeep Renegade Latitude,"$27,055","38,535 mi.",Granite Crystal Clearcoat Metallic,Black,Front-wheel Drive,Gasoline,9-Speed Automatic,2.4L I4 16V MPFI SOHC,ZACNJABB6LPL04985
+2023 Ford Edge Titanium,"$47,285",–,White Tri-Coat,Medium Soft Ceramic,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,2FMPK4K90PBA04940
+2023 Ford Expedition XLT,"$68,620",–,White Metallic,Black Onyx,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FMJU1J83PEA27169
+2023 Toyota Tundra Hybrid Capstone,"$78,938",–,Midnight Black Metallic,Black,Four-wheel Drive,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFVC5DB3PX025675
+2022 Lincoln Corsair Grand Touring,"$58,200",5 mi.,White Tri-Coat,Sandstone,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid,5LMTJ5DZ5NUL28619
+2023 Toyota Tacoma Limited,"$46,364",–,Metallic,Black,4WD,Gasoline,Automatic,3.5L V6 24V PDI DOHC,3TMGZ5ANXPM581672
+2023 Kia K5 GT,"$37,190",10 mi.,Ebony Black,Black,Front-wheel Drive,Gasoline,8-Speed,2.5L I4 16V PDI DOHC Turbo,5XXG44J87PG211980
+2017 BMW M2 Base,"$31,500","69,063 mi.",Blue,Black,Rear-wheel Drive,Gasoline,Automatic,"3L I-6 gasoline direct injection, DOHC, variable valve control,",WBA2G1C3XHV639398
+2023 Kia EV6 GT-Line,"$59,455",3 mi.,Yacht Blue,Black,All-wheel Drive,Electric,Automatic,Electric ZEV 320hp,KNDC4DLC4P5117365
+2023 Kia Telluride SX-P,"$52,185",14 mi.,Gravity Gray,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",5XYP5DGC3PG337550
+2023 Nissan Pathfinder SL,"$49,980",–,2 Tone White / Black Roof,Charcoal,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5N1DR3CD6PC261807
+2022 Mitsubishi Outlander SEL,"$33,500","33,497 mi.",Black,–,Four-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V GDI DOHC,JA4J4VA85NZ007856
+2023 Jeep Grand Cherokee L Summit,"$75,200",7 mi.,Bright White Clearcoat,Global Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C4RJKEG2P8732275
+2022 Mitsubishi Outlander SE Launch Edition,"$32,990","13,175 mi.",Cosmic Blue Metallic,Black,Front-wheel Drive,Gasoline,Automatic CVT,2.5L I4 16V GDI DOHC,JA4J3UA80NZ029132
+2023 Toyota Prius LE,"$29,138",–,Gray,Black,FWD,Hybrid,Automatic CVT,2.0L I4 16V DOHC Hybrid,JTDACAAU2P3006300
+2018 Ford F-150 XL,"$23,591","85,181 mi.",Red,–,Rear-wheel Drive,E85 Flex Fuel,6-Speed Automatic,3.3L V6 24V PDI DOHC Flexible Fuel,1FTMF1CB4JKC16393
+2019 Hyundai Sonata Hybrid SE,"$23,787","25,912 mi.",Nocturne Black,Gray,Front-wheel Drive,Hybrid,6-Speed Automatic,2.0L I4 16V GDI DOHC Hybrid,KMHE24L37KA089720
+2023 Toyota 4Runner TRD Off Road Premium,"$48,442",–,Lunar Rock,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTERU5JR3P6142903
+2023 Toyota Sienna XLE,"$45,264",7 mi.,Midnight Black Metallic,–,Front-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5TDJRKEC8PS159462
+2023 Jeep Grand Cherokee Summit,"$68,880","4,035 mi.",Diamond Black,Tupelo,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C4RJHEG0PC541809
+2023 Chevrolet Equinox 1LT,"$29,440",–,Sterling Gray Metallic,Jet Black,All-wheel Drive,Gasoline,–,1.5L I4 16V GDI DOHC Turbo,3GNAXUEG1PS204278
+2023 Ford F-150 Lightning LARIAT,"$87,591",1 mi.,Avalanche Gray,Black,AWD,Electric,SINGLE SPEED,Electric,1FTVW1EV9PWG03910
+2023 Mazda Mazda3 2.5 S Carbon Edition,"$29,920",6 mi.,Polymetal Gray Metallic,Red,Front-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,JM1BPALM1P1607571
+2022 Land Rover Range Rover Sport HST,"$87,899","8,012 mi.",Fuji White,Pimento / Ebony,Four-wheel Drive,Gasoline,Automatic,V6,SALWS2RU1NA236561
+2019 Jaguar E-PACE R-Dynamic SE,"$30,340","74,542 mi.",Black,Black,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,SADFL2GX8K1Z50754
+2024 BMW M440 i xDrive,"$71,120",2 mi.,Black Sapphire Metallic,Tacora Red,All-wheel Drive,Gasoline,Automatic,3.0L,WBA13AR06RCN08275
+2023 Kia EV6 GT-Line,"$58,980",3 mi.,Runway Red,Black,All-wheel Drive,Electric,Automatic,Electric ZEV 320hp,KNDC4DLC3P5116806
+2023 Buick Encore GX Preferred,"$25,190",5 mi.,Sapphire Metallic,Whisper Beige w/Ebony Accents,Front-wheel Drive,Gasoline,Automatic,"ECOTEC 1.2L I-3 gasoline direct injection, DOHC, variable valve",KL4MMBS22PB127230
+2023 RAM 2500 Big Horn Crew Cab 4x4 6'4' Box,"$69,305",9 mi.,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,"HEMI 6.4L V-8 VVT variable valve control, engine with cylinder d",3C6UR5DJXPG569460
+2022 Audi RS 7 4.0T quattro,"$125,878","6,357 mi.",Mythos Black Metallic,Black / Express Red,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WUAPCBF29NN900323
+2024 BMW X5 xDrive40i,"$83,095",5 mi.,Mineral White Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EU05R9S33788
+2023 Chevrolet Colorado 4WD Trail Boss,"$42,255",0 mi.,Glacier Blue Metallic,Jet Black,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GCPTEEK3P1134258
+2017 Kia Sedona LX,"$15,950","101,071 mi.",Bright Silver,Gray,Front-wheel Drive,Gasoline,6-Speed Automatic,3.3L V6 24V GDI DOHC,KNDMB5C10H6252725
+2023 Hyundai Tucson Hybrid Blue,"$32,890",14 mi.,Deep Sea,Black,All-wheel Drive,Hybrid,Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KM8JBCA19PU093137
+2022 Chevrolet Malibu Premier,"$32,790","3,013 mi.",Mosaic Black Metallic,Jet Black,Front-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1G1ZE5SX3NF201694
+2023 GMC Canyon AT4,"$49,170",–,Volcanic Red,Jet Black,Four-wheel Drive,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,1GTP6DEK7P1131364
+2019 Audi Q8 3.0T Prestige,"$45,575","56,698 mi.",Glacier White Metallic,Black,All-wheel Drive,Hybrid,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo Hybrid,WA1CVAF17KD007117
+2023 Kia Telluride EX,"$46,375",5 mi.,Ebony Black,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP3DGC7PG381816
+2023 Kia Sorento SX Prestige,"$45,040",5 mi.,Ebony Black,Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC Turbo,5XYRKDLF4PG200361
+2023 Chevrolet Tahoe RST,"$71,995",–,Sterling Gray Metallic,Jet Black,4WD,Gasoline,OTHER,5.3L V8 16V GDI OHV,1GNSKRKD8PR351372
+2022 Ford F-250 XLT,"$76,025",1 mi.,Rapid Red Metallic Tinted Clearcoat,Medium Earth Gray,Four-wheel Drive,Diesel,Automatic,6.7L V8 32V DDI OHV Turbo Diesel,1FT8W2BTXNEG30073
+2022 Ford F-250 XL,"$42,560",–,Oxford White,Medium Earth Gray,Rear-wheel Drive,E85 Flex Fuel,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,1FTBF2A66NEG45767
+2023 Dodge Challenger SXT,"$30,568",8 mi.,F8 Green,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDZAG5PH565789
+2023 Honda Accord Hybrid Sport,"$33,445",10 mi.,Urban Gray,Black,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,1HGCY2F57PA005190
+2023 Kia Sportage SX-Prestige,"$36,090",10 mi.,Gray,Black,FWD,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,5XYK53AFXPG101758
+2023 GMC Sierra 1500 SLE,"$59,210",3 mi.,Summit White,Jet Black,Four-wheel Drive,Diesel,Automatic,Turbocharged Diesel I6 3.0L/,1GTUUBE80PZ257603
+2023 Chevrolet Camaro ZL1,"$74,065",3 mi.,Summit White,Jet Black,Rear-wheel Drive,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV Supercharged,1G1FK1R62P0131452
+2023 Volkswagen Tiguan 2.0T S,"$28,576",11 mi.,Deep Black Pearl Effect,Titan Black,FWD,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3VVRB7AX4PM063391
+2024 BMW X5 xDrive40i,"$74,695",16 mi.,Skyscraper Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EU05R9S21687
+2024 BMW X7 xDrive40i,"$96,545",5 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM06R9S31757
+2021 Audi RS Q8 4.0T quattro,"$123,874","8,142 mi.",Daytona Gray Pearl Effect,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WU1ARBF14MD019948
+2024 BMW X7 xDrive40i,"$90,195",10 mi.,Mineral White Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM0XR9S16811
+2019 Lexus NX 300 F Sport,"$34,986","27,747 mi.",Caviar,Black,Front-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V PDI DOHC Turbo,JTJYARBZ8K2117975
+2023 Genesis G70 3.3T,"$56,770",5 mi.,Alta White,Obsidian Black,AWD,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KMTG54TE5PU122467
+2023 Cadillac CT4-V Blackwing,"$86,905",5 mi.,Electric Blue,Jet Black,Rear-wheel Drive,Gasoline,Manual,Turbocharged V6 3.6L/217,1G6DL5RPXP0561051
+2023 Hyundai Kona SEL,"$28,780",9 mi.,Lunar White,Gray,All-wheel Drive,Gasoline,IVT,2.0L I4 16V MPFI DOHC,KM8K3CAB0PU975310
+2023 GMC Sierra 1500 Denali,"$99,839",86 mi.,Onyx Black,Jet Black,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,1GTUUGEL0PZ253679
+2022 Ford Mustang GT Premium,"$48,520",4 mi.,Shadow Black,Ebony,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,1FA6P8CF1N5147433
+2021 Volkswagen Arteon 2.0T SE,"$29,367","19,100 mi.",Pure White,Titan Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,WVWAR7AN3ME008700
+2023 Kia Sorento SX,"$41,887",976 mi.,Wolf Gray,Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC Turbo,5XYRK4LF4PG170651
+2023 Honda Pilot LX,"$39,395",10 mi.,Modern Steel Metallic,Gray,All-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 DOHC 24V,5FNYG1H29PB020754
+2021 Alfa Romeo Giulia Ti,"$37,300","30,563 mi.",Vulcano Black Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI SOHC Turbo,ZARFANBN5M7643797
+2022 RAM 1500 Limited,"$69,855",801 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,1C6SRFHT3NN453854
+2023 GMC Savana 3500 Work Van,"$43,328",3 mi.,Cardinal Red,Medium Pewter,Rear-wheel Drive,Gasoline,Automatic,Gas V6 4.3L/,1GTZ7GFP2P1155590
+2023 Nissan Titan XD PRO-4X,"$57,493",13 mi.,Baja Storm,Black,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1N6AA1FB5PN106731
+2023 Kia Sportage EX,"$30,300",18 mi.,Glacial White Pearl,Black,Front-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC,5XYK33AF7PG119625
+2023 Mazda Mazda3 2.5 S Carbon Edition,"$31,155",4 mi.,Polymetal Gray Metallic,Red,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,JM1BPBLM4P1612477
+2018 Land Rover Range Rover Evoque HSE Dynamic,"$36,799","14,679 mi.",Narvik Black,Ebony/Ebony,Four-wheel Drive,Gasoline,Automatic,"Ingenium 2L I-4 gasoline direct injection, DOHC, CVVL variable v",SALVD2SX4JH298905
+2023 Mercedes-Benz EQE 350 ,"$84,540",3 mi.,–,Gray,All-wheel Drive,–,Automatic,0.0,4JGGM1CB5PA001425
+2023 GMC Yukon 4WD AT4,"$80,290",5 mi.,Titainium,Jet Black,Four-wheel Drive,Gasoline,Automatic,"EcoTec3 6.2L V-8 gasoline direct injection, variable valve contr",1GKS2CKL5PR350438
+2023 Chevrolet Tahoe High Country,"$85,350",10 mi.,Iridescent Pearl Tricoat,Jet Black,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,1GNSKTKL4PR334346
+2015 Jeep Wrangler Rubicon,"$27,950","60,158 mi.",Black Clearcoat,Black,Four-wheel Drive,Gasoline,5-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4BJWCG8FL686541
+2013 Chrysler 300C Base,"$15,950","69,112 mi.",Gloss Black,Black,Rear-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,2C3CCAET8DH675727
+2023 Chevrolet Colorado WT,"$36,945",1 mi.,Glacier Blue Metallic,Jet Black,Four-wheel Drive,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,1GCPTBEK3P1141791
+2022 Audi e-tron GT Premium Plus,"$87,860","1,165 mi.",Ibis White,Black,All-wheel Drive,Electric,2-Speed Automatic,Electric,WAUFJBFW3N7010113
+2013 Toyota Prius Two,"$16,998","84,066 mi.",Silver,Cream,Front-wheel Drive,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,JTDKN3DU8D1732384
+2023 Honda CR-V Hybrid Sport Touring,"$39,845",–,Lunar Silver Metallic,Black,All-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H91PH800651
+2023 Honda Accord Hybrid Sport,"$32,990",–,Lunar Silver Metallic,Black,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,1HGCY2F51PA010319
+2023 Toyota 4Runner Limited,"$53,259",5 mi.,Blizzard Pearl White,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTEKU5JR4P6135895
+2023 Jeep Compass Latitude Lux,"$36,865",10 mi.,Diamond Black,Black,Four-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3C4NJDFN3PT518887
+2021 Jeep Wrangler Unlimited 4xe Sahara,"$49,000","8,844 mi.",Sarge Green Clearcoat,Black,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,1C4JJXP68MW682326
+2023 Honda Ridgeline RTL-E,"$47,660",10 mi.,Crystal Black Pearl,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F75PB032044
+2023 GMC Sierra 2500 Pro,"$48,848",3 mi.,Summit White,Jet Black,Rear-wheel Drive,Gasoline,Automatic,Gas V8 6.6L/,1GD18LE72PF185160
+2023 Kia Stinger GT2,"$54,499",18 mi.,HiChroma Red,Black,All-wheel Drive,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LCXP6128356
+2023 BMW M850 Gran Coupe i xDrive,"$115,350",16 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBAGV8C09PCM11316
+2023 Kia Forte GT-Line,"$23,365",12 mi.,Steel Gray,Black,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,3KPF54ADXPE612731
+2023 Kia Telluride S,"$39,980",3 mi.,Gravity Gray,Black,Front-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",5XYP64GC6PG383824
+2023 Jeep Grand Cherokee Limited,"$63,655",14 mi.,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, intercooled turbo, engin",1C4RJYB64PC588997
+2023 Jeep Wrangler 4-Door High Tide 4x4,"$55,525",15 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, engine with 285",1C4HJXDG4PW677205
+2022 Ford Mustang Mach-E Select,"$45,770",118 mi.,Gray Metallic,Black Onyx,Rear-wheel Drive,Electric,1-Speed Automatic,Electric,3FMTK1RM2NMA42740
+2021 Porsche 911 Carrera,"$135,598","3,508 mi.",Black,Mojave Beige,Rear-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,3.0L H6 24V GDI DOHC Twin Turbo,WP0CA2A96MS239551
+2023 Audi S4 3.0T Prestige,"$67,895",12 mi.,Mythos Black Metallic,Magma Red,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Turbo,WAUC4AF44PA057465
+2023 BMW M8 Competition,"$141,995",17 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBSAE0C04PCM77906
+2024 BMW X7 xDrive40i,"$94,445",14 mi.,Black Sapphire Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM04R9S21602
+2023 Chevrolet Malibu LT,"$26,940",12 mi.,Mosaic Black Metallic,Jet Black,Front-wheel Drive,Gasoline,–,1.5L I4 16V GDI DOHC Turbo,1G1ZD5STXPF195167
+2023 Buick Enclave Avenir,"$53,068","1,604 mi.",Ebony Twilight Metallic,Ebony,All-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,5GAEVCKW0PJ210971
+2023 Toyota Sienna XLE,"$49,925",–,Celestial Silver Metallic,Graphite,AWD,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5TDJSKFC7PS21B381
+2018 Kia Cadenza Premium,"$25,070","38,830 mi.",Snow White Pearl,Beige,Front-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC,KNALC4J1XJ5096322
+2022 RAM 2500 Tradesman,"$52,045",0 mi.,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,6.4L V8 16V MPFI OHV,3C6UR5HJ6NG351717
+2023 Lincoln Aviator Grand Touring AWD,"$84,270",17 mi.,White Tri-Coat,Sandstone,All-wheel Drive,Hybrid,10-Speed,3.0L V6 24V GDI DOHC Twin Turbo Hybrid,5LMYJ8XY6PNL01663
+2023 Honda Accord Hybrid Touring,"$39,440",–,Platinum White Pearl,Gray,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,1HGCY2F88PA027547
+2023 Lincoln Aviator Black Label AWD,"$86,375",5 mi.,Metallic,Alpine,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J9XC2PGL12872
+2023 Honda Passport TrailSport,"$45,400",1 mi.,Radiant Red Metallic,Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H64PB008753
+2023 Toyota Tundra Hybrid 1794 Edition,"$70,834",–,Celestial Silver,Saddle Tan,4WD,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFMC5DB1PX022687
+2023 Kia Telluride EX X-Line,"$47,825",10 mi.,Glacial White Pearl,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP3DGC1PG393931
+2024 Mazda CX-90 Premium Plus,"$58,920",3 mi.,Rhodium White Metallic,White,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L,JM3KKEHAXR1101610
+2024 BMW 840 Gran Coupe 840,"$94,795",22 mi.,Mineral White Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V Turbo DOHC,WBAGV4C08RCN02217
+2024 BMW X7 xDrive40i,"$89,995",11 mi.,Skyscraper Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM00R9S07986
+2022 Bentley Flying Spur W12,"$269,950","12,957 mi.",Onyx,Portland,All-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,6.0L W12 48V PDI DOHC Twin Turbo,SCBBB6ZG6NC097011
+2023 Subaru Impreza Sport,"$29,312",5 mi.,Magnetite Gray Metallic,Black,All-wheel Drive,Gasoline,Automatic CVT,2.0L H4 16V GDI DOHC,4S3GTAM6XP3717945
+2023 Chevrolet Colorado Trail Boss,"$39,265",10 mi.,Sterling Gray Metallic,Jet Black,Four-wheel Drive,Gasoline,–,2.7L I4 16V GDI DOHC Turbo,1GCPTEEK1P1127812
+2022 Toyota Tundra Hybrid TRD Pro,"$78,000","6,949 mi.",White,Red,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFPC5DB4NX006316
+2023 GMC Sierra 1500 Denali,"$93,589",56 mi.,Sterling,Jet Black,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,3GTUUGEL0PG190888
+2021 Kia Telluride EX,"$36,500","80,510 mi.",Ebony Black,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP3DHC1MG114276
+2023 Nissan Titan PRO-4X,"$62,710",10 mi.,Gun Metallic,Black,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1N6AA1ED2PN110089
+2023 Kia Telluride EX X-Line,"$47,825",5 mi.,Wolf Gray,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP3DGC4PG381630
+2023 Toyota 4Runner Limited,"$53,897",–,Magnetic Gray Metallic,Black / Graphite,4WD,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTEKU5JR9P6156323
+2023 Toyota 4Runner TRD Off Road Premium,"$48,442",–,Midnight Black Metallic,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTERU5JRXP6141456
+2023 Nissan ARIYA ENGAGE,"$44,735",12 mi.,Gun Metallic,Charcoal,Front-wheel Drive,Electric,Automatic,Electric,JN1AF0BA5PM401946
+2023 Toyota 4Runner TRD Pro,"$56,357",–,Midnight Black Metallic,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTELU5JR5P6136249
+2020 GMC Canyon SLE,"$32,500","36,113 mi.",Dark Sky Metallic,Jet Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V GDI DOHC,1GTG6CEN8L1120274
+2022 Ford F-150 XLT,"$57,936","2,808 mi.",Iconic Silver Metallic,Black,Four-wheel Drive,–,–,5.0L V8 32V PDI DOHC,1FTFW1E54NKF14464
+2022 Ford F-250 Lariat,"$112,200",–,Gray,Black Onyx,Four-wheel Drive,Diesel,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,1FT8W2BT7NED84843
+2023 Jeep Grand Cherokee L Limited,"$49,213",10 mi.,Bright White Clearcoat,Global Black,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJKBG2P8744351
+2023 Jeep Grand Cherokee L Summit,"$64,092",18 mi.,Bright White Clearcoat,Tupelo,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJKEGXP8704322
+2023 Lincoln Aviator Reserve RWD,"$69,795",5 mi.,White Tri-Coat,Sandstone,Rear-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J7WC0PGL03254
+2021 Dodge Charger SXT,"$26,500","42,879 mi.",Granite Pearlcoat,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDXBG8MH628169
+2022 Ford Bronco Sport Big Bend,"$28,475",–,Carbonized Gray Metallic,Ebony,Four-wheel Drive,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,3FMCR9B67NRD31735
+2023 Nissan Rogue Platinum,"$39,815",–,White,Tan,All-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,JN8BT3DD9PW312747
+2014 Mercedes-Benz Sprinter High Roof,"$34,900","92,444 mi.",Arctic White,Black,Rear-wheel Drive,Diesel,Automatic,2.1L I4 16V DDI DOHC Turbo Diesel,WD3PF0DC6E5863763
+2023 BMW 740 i,"$102,995",10 mi.,Carbon Black Metallic,Tartufo,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WBA23EH05PCN05071
+2023 Jeep Compass Sport,"$32,085",11 mi.,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",3C4NJDAN9PT523860
+2024 BMW M440 i xDrive,"$68,095",10 mi.,Mineral White Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,I6,WBA13AW00RFP97379
+2023 Maserati Ghibli Modena Q4,"$109,495",–,Nero Noctis,–,All-wheel Drive,Gasoline,ZF 8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,ZAM57YTM1PX423682
+2021 Kia Sorento EX,"$33,900","42,628 mi.",Passion Red Tintcoat,Black,All-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,2.5L I4 16V PDI DOHC Turbo,5XYRHDLF9MG069471
+2023 Volkswagen Tiguan 2.0T S,"$29,015",13 mi.,Platinum Gray Metallic,Titan Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3VVRB7AX8PM072451
+2023 GMC Terrain Denali,"$40,641","2,512 mi.",Sterling Metallic,Light Platinum/Dark Galvanized,All-wheel Drive,Gasoline,Automatic,"1.5L I-4 gasoline direct injection, DOHC, variable valve control",3GKALXEG6PL132742
+2023 Kia Telluride S,"$39,875",5 mi.,Ebony Black,Gray,FWD,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP64GC6PG395746
+2023 Toyota 4Runner TRD Pro,"$56,942",–,White,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTELU5JR6P6131660
+2023 Toyota 4Runner TRD Pro,"$56,786",–,Midnight Black Metallic,Black / Graphite,4WD,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTELU5JR3P6148836
+2022 Ford F-250 XL,"$42,560",–,Oxford White,Medium Earth Gray,Rear-wheel Drive,E85 Flex Fuel,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,1FTBF2A68NEG45768
+2023 Nissan Frontier S,"$35,170",7 mi.,Glacier White,–,Four-wheel Drive,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1N6ED1EK3PN642183
+2019 Buick Envision Essence,"$22,697","72,027 mi.",Red,Tan,Front-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,LRBFXCSA6KD111773
+2023 GMC Sierra 1500 SLT,"$61,030",5 mi.,Titanium Rush Metallic,Jet Black,Four-wheel Drive,Diesel,Automatic,3.0L I6,3GTUUDE87PG252250
+2022 Audi S8 4.0T quattro,"$107,781","10,317 mi.",Vesuvius Gray Metallic,Black,All-wheel Drive,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WAULSAF8XNN001626
+2023 BMW M850 Gran Coupe i xDrive,"$107,250",11 mi.,Carbon Black Metallic,Tartufo,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBAGV8C00PCM97891
+2022 Volvo XC60 B5 Momentum,"$44,995","5,962 mi.",Thunder Gray Metallic,Charcoal,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,YV4L12RK8N1972034
+2023 Chevrolet Trailblazer LT,"$26,710",3 mi.,Mahogany Red Metallic,Jet Black,Front-wheel Drive,Gasoline,Automatic,"ECOTEC 1.3L I-3 gasoline direct injection, DOHC, variable valve",KL79MPSL6PB111711
+2022 Nissan Armada SL,"$58,055",8 mi.,Aspen White,Black,Four-wheel Drive,Gasoline,7-Speed Automatic,5.6L V8 32V GDI DOHC,JN8AY2BD5N9677643
+2021 Cadillac CT4 Premium Luxury,"$36,990","12,846 mi.",Wave Metallic,Jet Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1G6DF5RK6M0110710
+2023 Hyundai Santa Fe SEL,"$31,880","1,999 mi.",Serenity White Pearl,Beige,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,5NMS2DAJ0PH538824
+2023 Buick Encore GX Preferred,"$26,113",3 mi.,Rosewood Metallic,Ebony,All-wheel Drive,Gasoline,Automatic,1.3L I3 12V GDI DOHC Turbo,KL4MMCSLXPB123411
+2020 Toyota RAV4 LE,"$27,998","59,075 mi.",White,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,2T3F1RFV5LC099320
+2023 Hyundai Palisade SE,"$39,180",12 mi.,Silver,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,KM8R1DGE4PU551155
+2023 Toyota 4Runner TRD Off Road Premium,"$51,671",5 mi.,Magnetic Gray Metallic,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTERU5JR4P6132848
+2019 Honda Civic Sport,"$24,000","51,052 mi.",Aegean Blue Metallic,Black,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,19XFC2F85KE008616
+2019 RAM ProMaster 1500 Base,"$37,000","36,036 mi.",Bright White Clearcoat,Black,Front-wheel Drive,Gasoline,6-Speed Automatic,3.6L V6 24V MPFI DOHC,3C6TRVBG6KE549908
+2023 Lincoln Aviator Reserve AWD,"$71,320",3 mi.,Ceramic Pearl Metallic,Sandstone,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J7XC3PGL07281
+2023 Lincoln Aviator Grand Touring AWD,"$84,155",8 mi.,Blue Clearcoat,Roast,All-wheel Drive,Hybrid,10-Speed,3.0L V6 24V GDI DOHC Twin Turbo Hybrid,5LMYJ8XY8PNL01440
+2022 GMC Sierra 1500 AT4,"$60,995","9,885 mi.",Summit White,Jet Black,Four-wheel Drive,Diesel,10-Speed Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,1GTUUEET7NZ610762
+2022 Kia Seltos S,"$27,500","17,984 mi.",Clear White / Black Roof,Black,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,KNDEUCAA3N7288937
+2019 Subaru Outback 3.6R Limited,"$24,999","80,279 mi.",Crimson Red Pearl,Black,All-wheel Drive,Gasoline,Automatic CVT,3.6L H6 24V MPFI DOHC,4S4BSENC1K3210770
+2023 Lincoln Navigator L Reserve,"$108,245",5 mi.,Infinite Black Metallic,–,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5LMJJ3LG0PEL07489
+2022 Nissan Rogue SV,"$29,995","20,037 mi.",Brilliant Silver Metallic,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,5N1BT3BA7NC702650
+2023 Kia Stinger GT-Line,"$41,256",11 mi.,Snow White Pearl,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,KNAE35LDXP6129778
+2022 Nissan Rogue SL,"$34,995","7,153 mi.",White,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,5N1BT3CA7NC726963
+2023 Mazda CX-5 2.5 S Preferred Package,"$31,125",3 mi.,Eternal Blue Mica,Black,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,JM3KFBCMXP0238683
+2023 BMW X6 M Base,"$132,245",2 mi.,Carbon Black Metallic,Taruma Brown,All-wheel Drive,Gasoline,Automatic,4.4L V8 32V GDI DOHC Twin Turbo,5YMCY0C03P9R54286
+2023 GMC Yukon Denali,"$80,660",5 mi.,Midnight Blue Metallic,Dark Walnut/Very Dark Ash Gray,Four-wheel Drive,Gasoline,Automatic,"EcoTec3 6.2L V-8 gasoline direct injection, variable valve contr",1GKS2DKL3PR352324
+2016 Nissan 370Z Touring,"$29,995","53,872 mi.",Brilliant Silver,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,JN1AZ4FH8GM910340
+2020 Volvo S90 T6 Inscription,"$49,995","16,689 mi.",Onyx Black Metallic,Amber,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC,LVYA22ML8LP169704
+2024 BMW M440 i xDrive,"$68,520",9 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6,WBA13AR03RCN25406
+2021 Jeep Wrangler Unlimited 4xe Rubicon,"$53,819",744 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,1C4JJXR63MW855957
+2017 Mercedes-Benz E-Class E 400,"$32,900","49,620 mi.",–,–,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,WDDKK6FF4HF359920
+2022 Ford Mustang GT Premium,"$49,515","5,000 mi.",Carbonized Gray Metallic,Ebony,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,1FA6P8CF2N5143195
+2023 Toyota Highlander Hybrid Limited,"$52,423",–,Magnetic Gray Metallic,Black,AWD,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5TDXBRCH7PS17G571
+2023 Hyundai Palisade Calligraphy,"$53,520",10 mi.,Moonlight Cloud,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,KM8R7DGE5PU606579
+2020 Mercedes-Benz CLA 250 Base 4MATIC,"$34,815","9,662 mi.",Iridium Silver Metallic,Black,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,W1K5J4HB1LN111654
+2015 Mitsubishi Lancer Evolution GSR,"$38,364","35,404 mi.",Evolution,–,All-wheel Drive,Gasoline,5-Speed Manual,2.0L I4 16V MPFI DOHC Turbo,JA32W8FV0FU022024
+2023 Jeep Grand Cherokee L Limited,"$49,145",9 mi.,Diamond Black,Beige / Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C4RJKBG7P8834708
+2023 Honda Accord Hybrid Sport-L,"$34,970",–,Lunar Silver Metallic,Black,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,1HGCY2F77PA027157
+2023 Kia Sorento X-Line EX,"$44,435",11 mi.,Wolf Gray,Black,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,5XYRHDLF1PG198390
+2023 Ford Mustang Mach-E Select,"$51,590",–,Cyber Orange Metallic Tricoat,–,All-wheel Drive,Electric,Automatic,Electric,3FMTK1SS7PMA17568
+2023 Kia Telluride S,"$42,475",3 mi.,Glacial White Pearl,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",5XYP6DGC5PG385757
+2023 GMC Canyon Base,"$49,260",0 mi.,Summit White,Jet Black/Timber,Four-wheel Drive,Gasoline,Automatic,"2.7L I-4 gasoline direct injection, DOHC, variable valve control",1GTP6DEK9P1136095
+2016 Mercedes-Benz E-Class E 400,"$33,950","30,914 mi.",Iridium Silver Metallic,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,WDDKJ6FB0GF339890
+2020 BMW M2 Competition,"$51,900","50,949 mi.",Black Sapphire Metallic,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.0L I6 24V GDI DOHC Twin Turbo,WBS2U7C09L7E15729
+2023 RAM 2500 Tradesman Crew Cab 4x4 6'4' Box,"$68,090",9 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Diesel,Automatic,"Cummins 6.7L I-6 diesel direct injection, VVT intercooled turbo,",3C6UR5CL2PG570363
+2011 Nissan 370Z Touring,"$23,706","42,773 mi.",Gun Metallic,Black,Rear-wheel Drive,Gasoline,Automatic,"VQ 3.7L V-6 DOHC, variable valve control, engine with 332HP",JN1AZ4FH2BM360092
+2018 Nissan 370Z Touring,"$34,995","40,642 mi.",Solid Red,Gray,Rear-wheel Drive,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,JN1AZ4FH6JM520179
+2020 Volvo V60 T5 Momentum,"$33,972","27,928 mi.",Black Stone,Charcoal,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,YV1102EK0L2349690
+2023 Audi Q5 45 S line quattro Premium,"$51,810",6 mi.,Florett Silver Metallic,Okapi Brown,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,WA1GAAFY2P2126609
+2023 BMW X5 M Base,"$126,995",9 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,5YMJU0C05P9R70900
+2023 Chevrolet Tahoe RST,"$77,880",10 mi.,Sterling Gray Metallic,Jet Black,Four-wheel Drive,Gasoline,–,6.2L V8 16V GDI OHV,1GNSKRKL5PR339381
+2023 Hyundai Tucson Hybrid SEL Convenience,"$36,640",9 mi.,White,Gray,All-wheel Drive,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KM8JFCA13PU110115
+2023 Toyota Highlander Hybrid XLE,"$46,812",–,Celestial Silver Metallic,Black,AWD,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5TDKBRCH9PS19E161
+2018 Ford Taurus SEL,"$23,998","54,717 mi.",Red,Black,Front-wheel Drive,E85 Flex Fuel,6-Speed Automatic,3.5L V6 24V MPFI DOHC Flexible Fuel,1FAHP2E82JG140736
+2023 Kia Sportage Hybrid EX,"$32,690",5 mi.,Blue,Black,All-wheel Drive,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KNDPVCAG8P7070232
+2023 Lincoln Aviator Reserve AWD,"$70,025",5 mi.,Ceramic Pearl Metallic,Sandstone,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J7XC0PGL01230
+2015 Audi S8 4.0T quattro,"$41,995","31,343 mi.",Monsoon Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,WAUK2AFD8FN005345
+2023 Ford F-150 Lariat,"$77,025",1 mi.,Iconic Silver Metallic,Black,4WD,Gasoline,–,3.5L V6 24V PDI DOHC Twin Turbo,1FTFW1E8XPFA47265
+2023 Kia Stinger GT-Line,"$38,835",11 mi.,Metal,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,KNAE35LD3P6133400
+2019 Mazda CX-3 Sport,"$22,393","20,806 mi.",Deep Crystal Blue Mica,Black,All-wheel Drive,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC,JM1DKFB70K0429747
+2018 INFINITI Q50 400,"$37,000","29,321 mi.",Pure White,Graphite,All-wheel Drive,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,JN1FV7AR8JM480688
+2022 Nissan Rogue Sport SV,"$28,688","1,056 mi.",Gun Metallic,Charcoal,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,JN1BJ1BW7NW489002
+2023 Kia Stinger GT2,"$55,420",17 mi.,Micro Blue,Black,All-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.3L V-6 gasoline direct injection, DOHC, D-CVVT varia",KNAE55LC9P6128638
+2023 Chevrolet Traverse RS,"$43,045",44 mi.,Iridescent Pearl Tricoat,Jet Black / Spice Red,Front-wheel Drive,Gasoline,OTHER,3.6L V6 24V GDI DOHC,1GNERJKW4PJ222989
+2023 GMC Sierra 2500 Denali,"$88,560",5 mi.,White Frost Tricoat,Jet Black,Four-wheel Drive,Diesel,Automatic,"Duramax 6.6L V-8 diesel direct injection, intercooled turbo, die",1GT49REY3PF242038
+2021 Volvo S90 T6 R-Design,"$51,995","30,693 mi.",Crystal White Metallic,Charcoal,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC,LVYA22MT0MP207170
+2022 Kia Sorento SX Prestige,"$43,950","12,650 mi.",Sparkling Silver,Black,All-wheel Drive,Gasoline,8-Speed Automatic with Auto-Shift,2.5L I4 16V PDI DOHC Turbo,5XYRKDLFXNG089344
+2023 Chevrolet Colorado Trail Boss,"$39,265",10 mi.,Black,Jet Black,Four-wheel Drive,Gasoline,–,2.7L I4 16V GDI DOHC Turbo,1GCPTEEK0P1129390
+2004 Ferrari 360 Modena ,"$108,759","18,209 mi.",Rosso Corsa,Cuoio,Rear-wheel Drive,Gasoline,6-Speed Manual,3.6L V8 40V MPFI DOHC,ZFFYT53A240136794
+2023 Chevrolet Colorado 4WD Trail Boss,"$42,610",0 mi.,Sand Dune Metallic,Jet Black,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GCPTEEK1P1137773
+2023 Chevrolet Suburban Z71,"$72,605",0 mi.,Black,Jet Black,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,1GNSKDKD7PR325851
+2019 Mazda CX-9 Signature,"$30,000","55,238 mi.",Jet Black Mica,Auburn,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L V6 24V,JM3TCBEY5K0329009
+2022 Ford Maverick XLT,"$32,998","10,934 mi.",White,Gray,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,3FTTW8E93NRA93671
+2023 Honda CR-V Hybrid Sport,"$33,695",–,Meteorite Gray Metallic,Black,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,5J6RS5H55PL000142
+2023 Genesis G80 3.5T,"$67,080",10 mi.,Obsidian Black,Red,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,KMTGB4SD3PU164072
+2023 Kia Stinger GT2,"$55,935",10 mi.,HiChroma Red,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LCXP6131435
+2023 Jeep Wagoneer L Series III,"$86,100",1 mi.,Bright White Clearcoat,Global Black,Four-wheel Drive,Gasoline,Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1C4SJSDP6PS541514
+2022 Ford Mustang EcoBoost,"$33,455",1 mi.,Oxford White,Ebony,Rear-wheel Drive,Gasoline,–,2.3L I4 16V GDI DOHC Turbo,1FA6P8TH2N5148303
+2023 Lincoln Aviator Reserve AWD,"$76,150",5 mi.,Infinite Black Metallic,Roast,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J7XC8PGL08426
+2023 GMC Canyon 4WD AT4,"$50,075",3 mi.,Summit White,Jet Black/Timber,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GTP6DEK0P1140410
+2024 Mazda CX-90 Premium,"$55,070",3 mi.,Artisan Red Metallic,Beige,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L,JM3KKDHA4R1108501
+2023 Kia Stinger GT2,"$54,400",12 mi.,Ceramic Silver,Black,All-wheel Drive,Gasoline,Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LCXP6130298
+2023 Ford Transit-250 Base,"$48,215",9 mi.,Oxford White,Gray,Rear-wheel Drive,E85 Flex Fuel,10-Speed Automatic with Overdrive,3.5L V6 24V PDI DOHC Flexible Fuel,1FTBR1C85PKA24024
+2023 Nissan Rogue SV,"$29,610",–,Gun Metallic,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,5N1BT3BA1PC815108
+2024 BMW X7 xDrive40i,"$93,445",12 mi.,Skyscraper Gray Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM01R9S29107
+2018 Ferrari 488 Spider Base,"$317,990","7,082 mi.",Rosso Corsa,Nero,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,ZFF80AMA9J0235382
+2023 Chevrolet Malibu LT,"$26,940",12 mi.,Summit White / White,Jet Black,Front-wheel Drive,Gasoline,–,1.5L I4 16V GDI DOHC Turbo,1G1ZD5ST3PF195110
+2023 Kia Forte LXS,"$21,610",5 mi.,Aurora Black Pearl,Gray,Front-wheel Drive,Gasoline,IVT,2.0L I4 16V MPFI DOHC,3KPF24AD1PE627191
+2023 Nissan Kicks SV,"$24,310",10 mi.,Aspen White,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,3N1CP5CV5PL518439
+2023 Kia Stinger GT2,"$52,735",5 mi.,Ceramic Silver,Red,All-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LC8P6135662
+2014 Audi R8 4.2 Spyder quattro,"$97,403","13,812 mi.",Phantom Black Pearl Effect / Black Roof,Black,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,4.2L V8 32V GDI DOHC,WUASUAFG2EN002045
+2021 Buick Envision Essence,"$33,175","16,279 mi.",Satin Steel Metallic,Whisper Beige,Front-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,LRBFZNR46MD102144
+2023 Jeep Grand Cherokee L Laredo,"$41,080",1 mi.,Bright White Clearcoat,Global Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C4RJKAG5P8770282
+2023 RAM 1500 Classic Tradesman,"$42,940",14 mi.,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C6RR7KG4PS528453
+2022 RAM 1500 Big Horn,"$70,992",38 mi.,Delmonico Red Pearlcoat,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT8NN135909
+2022 RAM 1500 Big Horn,"$72,440",1 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFTXNN128170
+2022 RAM 1500 Big Horn,"$71,262",1 mi.,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFTXNN162450
+2023 Hyundai Tucson SEL,"$33,765",6 mi.,Amazon Gray,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,5NMJFCAE5PH246423
+2023 Honda CR-V Hybrid Sport Touring,"$39,845",10 mi.,Meteorite Gray Metallic,–,All-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H9XPH801720
+2023 Kia Telluride SX-Prestige,"$52,950",12 mi.,Everlasting Silver,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP5DGC6PG391084
+2023 GMC Canyon 4WD Elevation,"$44,320",3 mi.,Summit White,Jet Black,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GTP6BEK1P1131378
+2023 Kia EV6 GT,"$74,325",18 mi.,Steel,Black,All-wheel Drive,Electric,Automatic,Electric,KNDC5DLE5P5090773
+2023 Mazda CX-5 2.5 S Premium Plus Package,"$36,875",3 mi.,Deep Crystal Blue Mica,Black,All-wheel Drive,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,JM3KFBEM0P0239323
+2023 Mercedes-Benz AMG CLA 45 Base 4MATIC,"$69,525",2 mi.,–,Black,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,W1K5J5DBXPN390166
+2023 BMW 840 i xDrive,"$92,998","3,281 mi.",Alpine White,Fiona Red,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WBADZ4C0XPCK99688
+2023 Chevrolet Blazer RS,"$48,640",5 mi.,Black,Jet Black,All-wheel Drive,Gasoline,Automatic,Gas V6 3.6L/,3GNKBKRS9PS182309
+2023 Toyota Highlander Hybrid Limited,"$52,153",–,Midnight Black Metallic,Black,AWD,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,5TDXBRCH7PS20C909
+2023 Genesis G80 3.5T,"$67,080",10 mi.,Obsidian Black,Red,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,KMTGB4SD1PU163910
+2023 Nissan Frontier PRO-4X,"$50,510",10 mi.,Baja Storm,Steel,Four-wheel Drive,Gasoline,Automatic,3.8L V6 24V GDI DOHC,1N6ED1EK1PN646779
+2022 RAM 1500 Big Horn,"$73,795",1 mi.,Diamond Black,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT6NN128229
+2022 RAM 1500 Big Horn,"$73,795",1 mi.,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT9NN162391
+2022 RAM 1500 Big Horn,"$73,795",1 mi.,Diamond Black,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT2NN128230
+2022 Lincoln Navigator L Reserve,"$98,715",8 mi.,Ceramic Pearl Metallic,Sandstone,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5LMJJ3LT5NEL14402
+2022 Lincoln Nautilus Reserve,"$57,215",5 mi.,Blue Clearcoat,Sandstone,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,2LMPJ8K94NBL12012
+2021 Ford F-150 XLT,"$42,995","22,517 mi.",Iconic Silver Metallic,Black,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FTFW1E82MFA68011
+2016 Lexus IS 350 Base,"$23,995","77,625 mi.",Redline,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,JTHBE1D22G5025408
+2023 Chevrolet Silverado 1500 LT,"$48,090",7 mi.,Radiant Red,Jet Black,Four-wheel Drive,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,3GCPDDEK9PG224801
+2023 Dodge Challenger GT,"$38,133",8 mi.,Pitch Black Clearcoat,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDZJG4PH552595
+2023 Toyota Tacoma TRD Off Road,"$48,165",–,Electric Lime,Black,Four-wheel Drive,Gasoline,–,3.5L V6 24V PDI DOHC,3TYCZ5AN9PT131000
+2022 Dodge Challenger R/T,"$39,477",10 mi.,Granite Crystal Clearcoat Metallic,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,2C3CDZBT5NH168673
+2017 Maserati Ghibli S Q4,"$31,000","52,088 mi.",Bianco,Cuoio,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,ZAM57RTA3H1195376
+2020 Land Rover Range Rover Velar S R-Dynamic,"$47,894","52,635 mi.",Firenze Red,Ebony / Ebony,Four-wheel Drive,Gasoline,Automatic,I4,SALYK2EX0LA262283
+2023 BMW iX xDrive50,"$100,980",10 mi.,Black Sapphire Metallic,–,All-wheel Drive,Electric,Automatic,Electric,WB523CF07PCM72399
+2023 Nissan Rogue SV,"$32,495",–,Scarlet Ember,Light Gray,Front-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,5N1BT3BA0PC816962
+2024 BMW M440 i xDrive,"$70,295",10 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,I6,WBA13AW04RFP95828
+2022 Mercedes-Benz A-Class A 220 4MATIC,"$44,150",12 mi.,MANUFAKTUR Patagonia Red Metallic,–,All-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,W1K3G4FB1NJ367750
+2023 Audi RS e-tron GT Base,"$157,790",10 mi.,Daytona Gray Pearl Effect,Santos Brown / Rock Gray,All-wheel Drive,Electric,1-Speed Automatic,Electric,WAUBHBFWXP7901593
+2021 BMW 540 i xDrive,"$52,850","19,038 mi.",Dark Graphite,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WBA73BJ06MWW91129
+2023 Genesis G70 2.0T,"$42,938","15,772 mi.",Vik Black,Obsidian Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,KMTG34TA4PU104299
+2021 MINI Convertible Cooper S,"$34,591","16,458 mi.",Midnight Black Metallic,Carbon Black,Front-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,WMWWJ5C06M3M15714
+2023 Chevrolet Colorado 4WD Z71,"$45,800",0 mi.,Glacier Blue Metallic,Jet Black/Adrenaline Red,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GCPTDEK1P1133085
+2023 Chevrolet Blazer 2LT,"$37,845",11 mi.,Radiant Red,Jet Black,Front-wheel Drive,Gasoline,–,2.0L I4 16V GDI DOHC Turbo,3GNKBCR49PS205546
+2023 Hyundai Sonata SEL,"$28,265",9 mi.,Onyx Black,Dark Gray,Front-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,KMHL64JA3PA271645
+2023 Toyota GR86 Premium,"$33,852",–,Halo,Black,RWD,Gasoline,6-Speed Manual,2.4L H4 16V PDI DOHC,JF1ZNBE15P9758689
+2022 Dodge Charger Scat Pack,"$57,410",5 mi.,Triple Nickel Clearcoat,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,2C3CDXGJ1NH264781
+2023 Toyota Tundra Hybrid Capstone,"$76,995","1,095 mi.",Magnetic Gray Metallic,Black / White,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFVC5DB1PX018434
+2022 GMC Sierra 1500 AT4,"$62,867",1 mi.,Desert Sand Metallic,Jet Black,Four-wheel Drive,Diesel,10-Speed Automatic,3.0L I6 24V DDI DOHC Turbo Diesel,1GTUUEET6NZ619663
+2023 Hyundai Elantra SEL,"$24,820",7 mi.,Scarlet Red Pearl,Medium Gray,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,KMHLS4AG3PU500159
+2022 Lincoln Corsair Standard,"$35,879","10,831 mi.",Infinite Black Metallic,Ebony,Front-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,5LMCJ1C90NUL01600
+2023 Lincoln Aviator Standard AWD,"$59,140",24 mi.,Infinite Black Metallic,Ebony,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,5LM5J6XC0PGL13209
+2023 Toyota Tundra Hybrid Capstone,"$78,000",467 mi.,Lunar Rock,Boulder,Four-wheel Drive,Hybrid,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFVC5DB3PX019097
+2023 Ford Bronco Outer Banks Advanced,"$49,475",–,Race Red,Black Onyx,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,1FMEE5DP5PLB15788
+2014 Dodge Durango Limited,"$17,494","107,899 mi.",Granite Crystal Metallic Clearcoat,Black,All-wheel Drive,Gasoline,Automatic,"3.6L V-6 DOHC, variable valve control, engine with 290HP",1C4RDJDG6EC438391
+2022 Mercedes-Benz GLC 300 Base,"$38,524","33,265 mi.",Mojave Silver Metallic,Black,Rear-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,W1N0G8DB6NV333957
+2021 Genesis G80 3.5T,"$55,995","18,507 mi.",Uyuni White,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,KMTGC4SD6MU086802
+2023 Volkswagen Tiguan 2.0T SE,"$34,950",128 mi.,Opal White Pearl Effect,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,3VV2B7AX0PM017820
+2013 Ford Mustang V6 Premium,"$16,900","75,001 mi.",Gray,–,Rear-wheel Drive,Gasoline,Manual,"3.7L V-6 DOHC, Ti-VCT variable valve control, engine with 305HP",1ZVBP8AM4D5283187
+2021 BMW 540 i xDrive,"$49,950","32,659 mi.",Alpine White,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WBA73BJ06MWW98503
+2023 Nissan Rogue SL,"$34,965",–,Boulder Gray Pearl,Charcoal,All-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,JN8BT3CB6PW197878
+2023 Audi A4 45 S line Premium Plus,"$46,495","2,217 mi.",Navarra Blue Metallic,Rock Gray,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,WAUEAAF44PN000306
+2019 BMW X6 M Base,"$69,554","20,249 mi.",Black Sapphire Metallic,Silverstone,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,5YMKW8C54KLR38380
+2013 Volkswagen Eos Executive,"$20,950","38,437 mi.",Indium Gray Metallic,Charcoal / Black,Front-wheel Drive,Gasoline,6-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,WVWFW8AH0DV005543
+2023 Subaru Ascent Onyx Edition Limited,"$48,139",6 mi.,Cosmic Blue Pearl,Gray,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,4S4WMAKD2P3430525
+2023 Hyundai Palisade XRT,"$45,615",10 mi.,Hyper White,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,KM8R3DGE6PU604660
+2018 Land Rover Range Rover Velar P380 SE R-Dynamic,"$47,258","29,930 mi.",Santorini Black,Ebony,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,SALYL2RV4JA757914
+2022 RAM 1500 Big Horn,"$76,215",39 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT7NN311204
+2023 Toyota GR86 Premium,"$36,995","3,318 mi.",Halo,Black,Rear-wheel Drive,Gasoline,6-Speed Manual with Close-Ratio,2.4L H4 16V PDI DOHC,JF1ZNBE18P9752644
+2021 Volkswagen Golf GTI 2.0T SE,"$34,790","2,436 mi.",Deep Black Pearl Effect,Titan Black,Front-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,3VW6T7AU3MM002143
+2023 Dodge Challenger SXT,"$31,341",10 mi.,White Knuckle Clearcoat,Black,Rear-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDZAG6PH565784
+2023 Jeep Grand Cherokee L Laredo,"$43,777",14 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJKAGXP8799700
+2023 Jeep Grand Wagoneer Series II,"$94,803",36 mi.,Midnight Sky,Blue Agave,Four-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,1C4SJVFP2PS504278
+2023 Kia Sportage Hybrid LX,"$32,484",10 mi.,Gravity Gray,Black,All-wheel Drive,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KNDPUCAG7P7059435
+2023 Nissan Titan Platinum Reserve,"$62,126",10 mi.,White,Beige,Four-wheel Drive,Gasoline,Automatic,5.6L V8 32V GDI DOHC,1N6AA1ED3PN107198
+2022 Lincoln Navigator Reserve,"$90,000","4,958 mi.",Ocean Drive Blue,Roast,Rear-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,5LMJJ2KT4NEL00101
+2023 Audi Q5 45 S line Premium Plus,"$55,815",11 mi.,Chronos Gray Metallic,Black,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,WA1EAAFY5P2126515
+2023 Nissan Rogue Platinum,"$39,750",–,White,Charcoal,All-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,JN8BT3DD2PW309950
+2023 BMW X3 M40i,"$70,870",10 mi.,Mineral White Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,5UX83DP05P9R51967
+2023 Nissan Kicks SV,"$24,525",–,2 Tone Gray / Black,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,3N1CP5CV2PL505034
+2023 Chevrolet Blazer 2LT,"$35,100",12 mi.,Summit White / White,Jet Black,Front-wheel Drive,Gasoline,–,2.0L I4 16V GDI DOHC Turbo,3GNKBCR47PS205562
+2022 Ford Explorer XLT,"$43,790","1,739 mi.",Agate Black Metallic,Ebony,Four-wheel Drive,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,1FMSK8DH4NGC16963
+2023 Toyota Tundra Hybrid TRD Pro,"$72,728",–,Midnight Black Metallic,Black,4WD,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,5TFPC5DB7PX10B508
+2023 Honda CR-V Hybrid Sport,"$35,190",–,Lunar Silver Metallic,Black,All-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H5XPE025928
+2023 Toyota Prius XLE,"$35,299",5 mi.,Wind Chill Pearl,Light Gray,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V DOHC Hybrid,JTDACAAU0P3001970
+2023 Nissan Kicks SV,"$24,525",10 mi.,Aspen White / Super Black,Charcoal,Front-wheel Drive,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,3N1CP5CV7PL513436
+2023 Kia Sportage Hybrid EX,"$32,690",5 mi.,Blue,Black,AWD,Hybrid,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KNDPVCAGXP7072841
+2022 RAM 1500 Big Horn,"$76,068",1 mi.,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT7NN135870
+2023 RAM 1500 Classic Tradesman,"$42,940",73 mi.,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,3C6RR7KG9PG555087
+2023 Honda Pilot EX-L 8-Passenger,"$43,295",–,Obsidian Blue Pearl,Gray,Front-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG2H48PB006481
+2023 Kia Sorento SX,"$42,295",10 mi.,Everlasting Silver,Black,All-wheel Drive,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC Turbo,5XYRKDLF1PG198424
+2022 Mercedes-Benz GLC 300 Base 4MATIC,"$46,324","9,788 mi.",Black,Black,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,W1N0G8EB1NV379260
+2023 Chevrolet Traverse RS,"$43,045",6 mi.,Radiant Red,Jet Black / Spice Red,Front-wheel Drive,Gasoline,OTHER,3.6L V6 24V GDI DOHC,1GNERJKW2PJ231609
+2023 BMW iX M60,"$116,020",–,Storm Bay Metallic,Chestnut,All-wheel Drive,Electric,Automatic,Electric,WB533CF08PCL95899
+2022 BMW 750 i xDrive,"$92,985","12,156 mi.",Mineral White Metallic,Cognac,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBA7U2C0XNCK76523
+2022 Maserati Levante Modena,"$92,306",18 mi.,Bianco,Tan,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,ZN661YUM2NX402912
+2023 Chevrolet Blazer RS,"$46,770",5 mi.,Radiant Red Tintcoat,Jet Black,Front-wheel Drive,Gasoline,Automatic,Gas V6 3.6L/,3GNKBERS1PS194469
+2023 Chevrolet Silverado 2500 WT,"$45,678",0 mi.,Summit White,Jet Black,Rear-wheel Drive,Gasoline,Automatic,"6.6L V-8 gasoline direct injection, variable valve control, engi",1GB2WLE71PF145333
+2018 Mercedes-Benz E-Class E 300,"$33,367","33,944 mi.",Green,Macchiato Beige,All-wheel Drive,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,WDDZF4KB0JA365405
+2023 Toyota Sequoia Limited,"$71,138",5 mi.,Magnetic Gray Metallic,Black,Four-wheel Drive,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,7SVAAABA4PX012379
+2021 Audi RS 5 2.9T,"$75,000","18,792 mi.",Nardo Gray,Black / Crescendo Red,All-wheel Drive,Gasoline,8-Speed Automatic,2.9L V6 24V GDI DOHC Twin Turbo,WUAAWCF50MA901962
+2023 Toyota 4Runner TRD Pro,"$56,782",5 mi.,Solar,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTELU5JR6P6142173
+2023 Kia Niro EV Wind,"$37,200",6 mi.,Mineral Blue,Charcoal,Front-wheel Drive,Electric,1-Speed Automatic,Electric,KNDCR3L10P5017273
+2023 Kia Stinger GT2,"$53,940",10 mi.,Aurora Black,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LC1P6131601
+2023 Kia Niro EV Wave,"$45,500",5 mi.,Snow White Pearl,Charcoal,Front-wheel Drive,Electric,1-Speed Automatic,Electric,KNDCT3L12P5022203
+2022 RAM 1500 Big Horn,"$76,985",5 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,5.7L V8 16V MPFI OHV,1C6SRFFT5NN314473
+2023 GMC Terrain Denali,"$41,774","1,691 mi.",Summit White / White,Light Platinum,All-wheel Drive,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,3GKALXEG3PL174303
+2023 GMC Canyon Denali,"$54,310",1 mi.,Summit White,Jet Black,Four-wheel Drive,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,1GTP6FEK0P1134702
+2017 Ford F-250 Lariat,"$38,995","112,358 mi.",Magnetic Metallic,Black,Four-wheel Drive,E85 Flex Fuel,6-Speed Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,1FT7W2B68HED66989
+2022 Ford F-250 Lariat,"$118,595",–,Blue,Black Onyx,Four-wheel Drive,Diesel,10-Speed Automatic,6.7L V8 32V DDI OHV Turbo Diesel,1FT8W2BT3NEE52605
+2023 Honda Accord EX,"$30,705",10 mi.,Meteorite,Black,FWD,Gasoline,Automatic CVT,1.5L I4 16V DOHC,1HGCY1F36PA024919
+2023 Kia Stinger GT2,"$53,863",15 mi.,Snow White Pearl,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo,KNAE55LC2P6130456
+2023 Kia Stinger GT-Line,"$41,535",12 mi.,Ceramic Silver,Black,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,KNAE35LD0P6132981
+2020 Lamborghini Urus Base,"$212,995","46,111 mi.",Black,Nero Ade,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,ZPBUA1ZL0LLA08760
+2018 Land Rover Range Rover Velar D180 S,"$34,890","50,948 mi.",Fuji White,Ebony,Four-wheel Drive,Diesel,8-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,SALYB2RN5JA710135
+2023 Kia Sportage Hybrid EX,"$33,085",11 mi.,Snow White Pearl,Black,AWD,Hybrid,Automatic,1.6L I4 16V GDI DOHC Turbo Hybrid,KNDPVCAG3P7071739
+2022 Lamborghini Urus Pearl Capsule,"$309,900","2,268 mi.",Blu Eleos Metallic,Bianco Polar / Nero Ade,All-wheel Drive,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,ZPBUA1ZL1NLA19656
+2023 Nissan Pathfinder SL,"$47,085",–,Scarlet Ember,Charcoal,Four-wheel Drive,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5N1DR3CD5PC256243
+2017 BMW X6 M Base,"$50,750","51,014 mi.",Alpine White,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,5YMKW8C33H0U72207
+2023 Chevrolet Colorado 4WD Z71,"$45,405",0 mi.,Black,Jet Black/Adrenaline Red,Four-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.7L/,1GCPTDEK0P1137273
+2020 INFINITI QX50 ESSENTIAL,"$34,990","20,552 mi.",Black Obsidian,Graphite,Front-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,3PCAJ5M19LF106051
+2023 Cadillac CT5 Sport,"$57,220",5 mi.,Summit White,Jet Black with Jet Black Accents,All-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.0L/,1G6DU5RK2P0137011
+2022 GMC Sierra 1500 Denali,"$68,000","6,018 mi.",Pacific Blue Metallic,Jet Black,Four-wheel Drive,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,3GTUUGED7NG687006
+2023 Toyota Sequoia TRD Pro,"$80,934",–,White,Black,4WD,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,7SVAAABA3PX13A749
+2019 Nissan Frontier PRO-4X,"$32,077","29,675 mi.",Magnetic Black,–,Four-wheel Drive,Gasoline,5-Speed Automatic,4.0L V6 24V MPFI DOHC,1N6AD0EV0KN794353
+2023 Toyota Sequoia Capstone,"$81,433",–,Midnight Black Metallic,Black / White,4WD,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,7SVAAABA6PX10B665
+2023 Toyota Sequoia Capstone,"$82,082",5 mi.,Celestial Silver Metallic,Black / White,Four-wheel Drive,Hybrid,Automatic,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,7SVAAABA0PX012167
+2023 Hyundai Santa Fe Calligraphy,"$46,315",10 mi.,Twilight Black,Black,All-wheel Drive,Gasoline,SHIFTRONIC,2.5L I4 16V PDI DOHC Turbo,5NMS5DAL2PH574233
+2023 Tesla Model X Base,"$92,995","2,446 mi.",Pearl White Multi,Black,All-wheel Drive,Electric,1-Speed Automatic,Electric,7SAXCDE56PF369431
+2022 Ford F-350 XL,"$46,460",1 mi.,Oxford White,Medium Earth Gray,RWD,Flexible Fuel,Automatic,6.2L V8 16V MPFI SOHC Flexible Fuel,1FTBF3A68NEG45761
+2023 Hyundai Tucson SEL,"$33,760",6 mi.,Shimmering Silver,Black,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,5NMJFCAE3PH245853
+2022 Tesla Model Y Long Range,"$49,990","17,976 mi.",Red Multi,White / Black,All-wheel Drive,Electric,1-Speed Automatic,Electric,7SAYGDEE1NF321048
+2023 Honda Odyssey EX-L,"$41,905",10 mi.,Modern Steel Metallic,Gray,FWD,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H60PB059023
+2022 INFINITI QX50 Luxe,"$40,499","4,228 mi.",Hermosa Blue,Graphite,All-wheel Drive,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,3PCAJ5BB8NF111823
+2015 Acura RDX Technology Package,"$18,385","75,954 mi.",Silver Moon,Ebony,Front-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5J8TB3H51FL002115
+2023 Dodge Challenger SXT,"$32,493",11 mi.,Triple Nickel Clearcoat,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDZGG8PH544698
+2022 RAM 1500 Classic SLT,"$55,477",10 mi.,Diamond Black,Black,Four-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,1C6RR7LT4NS238237
+2019 Land Rover Range Rover Sport 5.0L Supercharged Dynamic,"$61,997","48,643 mi.",Santorini Black,Pimento / Ebony,Four-wheel Drive,Gasoline,Automatic,V8,SALWR2RE1KA848405
+2017 Land Rover Range Rover Evoque SE,"$27,700","49,411 mi.",Blue,Light Gray,Four-wheel Drive,Gasoline,"Auto, 9-Spd w/Sport Mode","2L I-4 gasoline direct injection, DOHC, variable valve control,",SALVP2BG3HH225235
+2019 RAM 2500 Big Horn,"$43,109","48,815 mi.",Granite Crystal Clearcoat Metallic,Diesel Gray / Black,Four-wheel Drive,Diesel,Automatic,6.7L I6 24V DDI OHV Turbo Diesel,3C6UR5JL8KG694018
+2006 Porsche Cayman S,"$29,000","83,000 mi.",Black,Black,Rear-wheel Drive,Gasoline,5-Speed A/T,295.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,WP0AB29886U782746
+2023 Chevrolet Colorado WT,"$34,960",10 mi.,Blue,–,Four-wheel Drive,Gasoline,–,2.7L I4 16V GDI DOHC Turbo,1GCGTBEC5P1133345
+2012 Subaru Forester 2.5XT Touring,"$15,022","70,861 mi.",Black,Black,All-wheel Drive,Gasoline,4-Speed Automatic,2.5L H4 16V MPFI DOHC Turbo,JF2SHGGCXCH448988
+2023 GMC Terrain SLE,"$34,985","3,066 mi.",Volcanic Red,Jet Black,All-wheel Drive,Gasoline,9-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,3GKALTEG5PL141103
+2020 Porsche Panamera E-Hybrid 4,"$89,501","9,967 mi.",Volcano Grey Metallic,Black,All-wheel Drive,Hybrid,8-Speed Automatic with Auto-Shift,2.9L V6 24V GDI DOHC Twin Turbo Hybrid,WP0AE2A72LL130412
+2023 Hyundai Palisade Calligraphy,"$53,680",10 mi.,Moonlight Cloud,Navy,All-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,3.8L V6 24V GDI DOHC,KM8R7DGE8PU592645
+2023 Ford F-150 Lariat,"$135,850",–,Avalanche Gray,–,Four-wheel Drive,Gasoline,Automatic,5.0L V8 32V PDI DOHC,1FTFW1E5XPFA13106
+2020 Ford F-150 Lariat,"$43,995","52,596 mi.",Magnetic Metallic,Black,Four-wheel Drive,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,1FTEW1EP2LKD32191
+2023 GMC Sierra 3500 SLE,"$70,914",1 mi.,Summit White,Black,Four-wheel Drive,Diesel,Automatic,6.6L V8 32V DDI OHV Turbo Diesel,1GT49TEY3PF261606
+2023 Ford Explorer XLT,"$40,890",1 mi.,Agate Black Metallic,Ebony,Four-wheel Drive,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1FMSK8DH2PGA41079
+2023 Ford Explorer XLT,"$46,135",1 mi.,Stone Blue Metallic,Ebony,Four-wheel Drive,Gasoline,Automatic,2.3L I4 16V GDI DOHC Turbo,1FMSK8DH6PGA45801
+2023 Ford Explorer ST,"$60,205",1 mi.,White Tri-Coat,Ebony,Four-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1FM5K8GC2PGA73849
+2023 Kia Carnival LX Seat Package,"$38,664",10 mi.,Aurora Black Pearl,Saddle Brown,Front-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,KNDNB4H37P6290914
+2023 INFINITI Q50 LUXE,"$47,315",5 mi.,Dynamic Sunstone Red,Stone,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,JN1EV7BRXPM540764
+2022 Ford Mustang GT Premium,"$53,030",11 mi.,Mischievous Purple Metallic,Ebony,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,1FA6P8CF7N5144715
+2023 Ford Bronco Raptor,"$82,400",–,Orange,–,Four-wheel Drive,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,1FMEE5JR1PLB00453
+2023 Kia Stinger GT2,"$56,230",3 mi.,Ceramic Silver,red,Rear-wheel Drive,Gasoline,Automatic,"LAMBDA II 3.3L V-6 gasoline direct injection, DOHC, D-CVVT varia",KNAE55LC5P6135747
+2020 RAM 2500 Big Horn Crew Cab 4X4 6'4' Box,"$44,994","60,413 mi.",Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,Gasoline,Automatic,"HEMI 6.4L V-8 VVT variable valve control, engine with cylinder d",3C6UR5DJ1LG155655
+2023 BMW i4 Gran Coupe eDrive40,"$60,820",10 mi.,Alpine White,Tacora Red,Rear-wheel Drive,Electric,Automatic,Electric,WBY73AW02PFP93214
+2024 BMW X7 xDrive40i,"$94,245",11 mi.,Mineral White Metallic,Coffee,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V DOHC,5UX23EM08R9S21280
+2020 BMW M5 Competition,"$82,900","31,696 mi.",Alpine White,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBSJF0C00LCE40412
+2024 Chevrolet Silverado 2500 LTZ,"$77,230",5 mi.,Black,Jet Black,Four-wheel Drive,Diesel,Automatic,Turbocharged Diesel V8 6.6L/,1GC4YPEY9RF104093
+2023 Cadillac CT5 Sport,"$57,845",5 mi.,Wave Metallic,Jet Black with Jet Black Accents,All-wheel Drive,Gasoline,Automatic,Turbocharged Gas I4 2.0L/,1G6DU5RK3P0132755
+2023 Chevrolet Trailblazer LS,"$23,585",0 mi.,–,"Jet Black, Cloth Seat Trim",Front-wheel Drive,Gasoline,Automatic,"ECOTEC 1.2L I-3 gasoline direct injection, DOHC, variable valve",KL79MMS25PB152353
+2015 Dodge Durango R/T,"$29,990","67,725 mi.",Brilliant Black Crystal Pearlcoat,Black,All-wheel Drive,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,1C4SDJCT2FC851409
+2023 Ford Mustang Mach 1,"$61,295",6 mi.,Eruption Green Metallic,Ebony,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,1FA6P8R08P5500319
+2023 Toyota Prius LE,"$28,994",5 mi.,Blue,Light Gray,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V DOHC Hybrid,JTDACAAU6P3004095
+2023 RAM 1500 Classic Tradesman,"$43,430",23 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,3C6RR7KG9PG555171
+2018 Ford F-150 King Ranch,"$35,495","95,589 mi.",Shadow Black,Mesa,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FTEW1EG7JFB95741
+2023 Hyundai Sonata SEL,"$28,371",10 mi.,Red,Dark Gray,Front-wheel Drive,Gasoline,8-Speed Automatic with SHIFTRONIC,2.5L I4 16V PDI DOHC,KMHL64JA0PA301670
+2023 Jeep Grand Cherokee L Overland,"$62,977",15 mi.,Silver Zynith,Global Black,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJKDG4P8718296
+2023 Dodge Challenger SXT,"$33,549",10 mi.,Pitch Black Clearcoat,Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,2C3CDZGG0PH554335
+2022 Toyota Camry Hybrid XLE,"$37,500","4,612 mi.",Midnight Black Metallic,Ash,Front-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,4T1F31AK5NU594328
+2023 INFINITI Q50 LUXE,"$46,415",5 mi.,Black Obsidian,Graphite,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,JN1EV7BR8PM541279
+2023 INFINITI Q50 SENSORY,"$53,490",2 mi.,Black Obsidian,Graphite,All-wheel Drive,Gasoline,Automatic,3.0L V6 24V GDI DOHC Twin Turbo,JN1EV7CR4PM540581
+2023 GMC Canyon Denali,"$54,955",0 mi.,Volcanic Red Tintcoat,Jet Black/Teak,Four-wheel Drive,Gasoline,Automatic,"2.7L I-4 gasoline direct injection, DOHC, variable valve control",1GTP6FEK3P1130479
+2019 Mercedes-Benz AMG GLC 43 4MATIC Coupe,"$55,950","32,340 mi.",Black,Cranberry Red / Black,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,WDC0J6EB7KF496161
+2019 Volvo XC40 T5,"$28,995","70,155 mi.",Black Stone,Charcoal / Red,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,YV4162XZ2K2012075
+2023 BMW M550 i xDrive,"$95,845",10 mi.,Black Sapphire Metallic,Black,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBA13BK05PCN45847
+2020 Mercedes-Benz CLS 450 Base 4MATIC,"$58,369","26,759 mi.",White,–,All-wheel Drive,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WDD2J5KB8LA052109
+2013 Aston Martin V8 Vantage S,"$69,900","6,562 mi.",Skyfall Sliver,Chancellor Red,Rear-wheel Drive,Gasoline,Automatic,"4.7L DOHC 32-valve V8 engine -inc: resonance induction system, v",SCFEKBEL9DGD17534
+2023 Chevrolet Equinox LS,"$24,724",3 mi.,Summit White / White,Medium Ash Gray,Front-wheel Drive,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,3GNAXHEG2PL167193
+2023 Chevrolet Tahoe Premier,Not Priced,10 mi.,Red,–,Four-wheel Drive,Gasoline,–,5.3L V8 16V GDI OHV,1GNSKSKD5PR188431
+2023 Chevrolet Camaro 2SS,"$53,545",1 mi.,Riverside Blue Metallic,Medium Ash Gray,Rear-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,1G1FH3D75P0140673
+2023 Ford Mustang Mach 1,"$68,230",6 mi.,Shadow Black,Ebony,Rear-wheel Drive,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,1FA6P8R05P5501539
+2023 Toyota RAV4 Hybrid SE,"$36,193",–,Magnetic Gray Metallic,Black,AWD,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,2T3T6RFV3PW15G093
+2022 Volkswagen Atlas 2.0T SE,"$33,337","17,751 mi.",Deep Black Pearl Effect,Titan Black,Front-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1V2DP2CA0NC521561
+2023 GMC Yukon Denali,"$89,135",1 mi.,Frost,Dark Walnut,Four-wheel Drive,Gasoline,Automatic,6.2L V8 16V GDI OHV,1GKS2DKL7PR357915
+2023 GMC Yukon SLT,"$74,065",7 mi.,Midnight Blue Metallic,Dark Walnut,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,1GKS2BKD8PR341526
+2023 Ford F-150 Platinum,"$74,239",–,Carbonized Gray Metallic,Black,Four-wheel Drive,Gasoline,–,3.5L V6 24V PDI DOHC Twin Turbo,1FTFW1E8XPFA10572
+2022 Ford Expedition Limited,"$74,350","5,300 mi.",Rapid Red Metallic Tinted Clearcoat,–,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FMJU2AT3NEA36199
+2023 Toyota Highlander XSE,"$49,333",–,Wind Chill Pearl,Black,All-wheel Drive,Gasoline,Automatic,2.4L I4 16V PDI DOHC Turbo,5TDKDRBH3PS026572
+2023 Genesis GV70 2.5T,"$58,140",7 mi.,White,–,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V PDI DOHC Turbo,KMUMADTB7PU110899
+2021 Jeep Grand Cherokee Limited,"$32,000","37,776 mi.",Billet Silver Metallic Clearcoat,Light Frost,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJFBG8MC732530
+2023 BMW M4 Competition,"$98,495",121 mi.,Gray,Red,Rear-wheel Drive,Gasoline,Automatic with Steptronic,3.0L 6 Cylinder Twin Turbo,WBS33AZ05PCL88227
+2023 Ford F-250 XLT,"$52,765",–,Oxford White,–,Four-wheel Drive,Gasoline,10-Speed Automatic,7.3L V8 16V MPFI OHV,1FTBF2BN8PEC05154
+2021 Ford Expedition Max XLT,"$47,479","43,663 mi.",Star White,Medium Stone,Four-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,1FMJK1JT8MEA42353
+2023 GMC Yukon SLT,"$77,135",5 mi.,Onyx Black,Jet Black,Four-wheel Drive,Gasoline,Automatic,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",1GKS2BKD5PR360230
+2023 Nissan Rogue Platinum,"$38,395",–,White,Tan,All-wheel Drive,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,JN8BT3DD6PW312883
+2023 Chevrolet Colorado LT,"$37,450",0 mi.,Summit White,Jet Black,Rear-wheel Drive,Gasoline,Automatic,"2.7L I-4 gasoline direct injection, DOHC, variable valve control",1GCPSCEK4P1124037
+2020 BMW M5 Competition,"$84,990","21,496 mi.",Bay Blue,Aragon Brown,All-wheel Drive,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,WBSJF0C0XLCE48324
+2021 Jeep Grand Cherokee Trailhawk,"$35,855","48,109 mi.",Velvet Red Pearlcoat,Black,Four-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,1C4RJFLG4MC650597
+2023 Kia Carnival EX,"$40,805",5 mi.,Astra Blue,Gray,Front-wheel Drive,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,KNDNC5H38P6296756
+2023 Toyota Crown XLE,"$41,758",–,Magnetic Gray Metallic,Black,All-wheel Drive,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,JTDAAAAF6P3002581
+2023 Toyota 4Runner TRD Pro,"$56,716",5 mi.,Midnight Black Metallic,Black / Graphite,Four-wheel Drive,Gasoline,Automatic,4.0L V6 24V MPFI DOHC,JTELU5JR8P6133250
+2022 Honda Pilot EX-L,"$40,990","13,956 mi.",Lunar Silver Metallic,Gray,All-wheel Drive,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H57NB030433
+2023 Jeep Grand Cherokee L Laredo,"$40,825",1 mi.,Metallic,Global Black,Four-wheel Drive,Gasoline,Automatic,3.6L V6 24V MPFI DOHC,1C4RJKAG6P8834703
+2022 Buick Encore Preferred,"$26,068",7 mi.,Cinnabar Metallic,Ebony,Front-wheel Drive,Gasoline,6-Speed Automatic,1.4L I4 16V GDI DOHC Turbo,KL4CJASM1NB563760
+2023 GMC Yukon SLT,"$73,490",94 mi.,Onyx Black,Jet Black,Four-wheel Drive,Gasoline,Automatic,5.3L V8 16V GDI OHV,1GKS2BKD6PR344554
+2023 Volkswagen Atlas 3.6L SE w/Technology,"$45,300",5 mi.,Pure White,Titan Black,All-wheel Drive,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,1V2KR2CA2PC545011
+2023 Nissan Leaf S,"$28,360",7 mi.,Black,–,Front-wheel Drive,Electric,Automatic,Electric,1N4AZ1BV0PC557658
+2018 Jaguar XE 25t Premium,"$25,000","45,019 mi.",Santorini Black,Ebony,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,SAJAJ4FX0JCP34815
+2019 Land Rover Range Rover Sport 3.0L Supercharged HSE,"$52,014","46,842 mi.",Fuji White,Ebony/Ebony/Ebony/Ebony,Four-wheel Drive,Gasoline,Automatic,V6,SALWR2RV1KA845584
+2017 Acura NSX Base,"$129,995","20,894 mi.",Black,Red,All-wheel Drive,Hybrid,9-Speed Automatic with Auto-Shift,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,19UNC1B03HY000315
+2023 Mazda Mazda3 2.5 Turbo AWD,"$34,685",4 mi.,Machine Gray Metallic,Beige,All-wheel Drive,Gasoline,Automatic,2.5L I4 16V GDI DOHC Turbo,JM1BPBJYXP1609492
+2023 Volvo C40 Recharge Pure Electric Twin Ultimate,"$57,715",0 mi.,Crystal White,Charcoal,All-wheel Drive,Electric,Automatic,Electric,YV4ED3GM3P2054442
+2021 Buick Enclave Essence,"$32,590","45,738 mi.",Satin Steel Metallic,Dark Galvanized,All-wheel Drive,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,5GAEVAKWXMJ150312
+2019 Volvo XC90 T6 Inscription,"$40,595","42,499 mi.",Onyx Black Metallic,Blond,All-wheel Drive,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC,YV4A22PL8K1418536
+2023 Volvo XC90 B6 Ultimate 7-Seater,"$67,673",0 mi.,Thunder Gray,Charcoal,All-wheel Drive,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,YV4062PA9P1951338
+2020 Kia Telluride S,"$31,696","66,175 mi.",Ebony Black / Black,Gray,All-wheel Drive,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,5XYP6DHC1LG034871
+2018 Lexus RC 350 Base,"$38,000","53,666 mi.",Ultra White,Rioja Red,All-wheel Drive,Gasoline,6-Speed Automatic,3.5L V6 24V PDI DOHC,JTHSZ5BC9J5008538
+2023 Ford F-250 XLT,"$65,365",14 mi.,Carbonized Gray Metallic,Medium Dark Slate,Four-wheel Drive,Gasoline,10-Speed Automatic,7.3L V8 16V MPFI OHV,1FT8W2BN0PEC69599
+2018 BMW 340 i xDrive,"$33,569","40,941 mi.",Melbourne Red Metallic,Black / Dark Oyster,All-wheel Drive,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,WBA8B7G57JNU95497
+2019 Subaru Ascent Touring 7-Passenger,"$31,499","65,413 mi.",White,Java Brown,All-wheel Drive,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,4S4WMARD6K3455653
+2023 Honda Odyssey Touring,"$45,945",–,Lunar Silver Metallic,Gray,Front-wheel Drive,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H87PB055200
+2018 BMW M2 Base,"$43,401","42,687 mi.",Blue Metallic,Black,Rear-wheel Drive,Gasoline,7-Speed Automatic with Auto-Shift,3.0L I6 24V GDI DOHC Turbo,WBS1J5C53JVD35940
+2023 Toyota Prius Four,"$34,529",5 mi.,Midnight Black Metallic,Black,Front-wheel Drive,Hybrid,Automatic CVT,2.0L I4 16V DOHC Hybrid,JTDACAAU5P3001706
+2022 RAM 2500 Big Horn,"$89,825",29 mi.,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,Diesel,Automatic,6.7L I6 24V DDI OHV Turbo Diesel,3C6UR5DL2NG223918
+2022 RAM 2500 Big Horn,"$89,385",22 mi.,Bright White Clearcoat,Black,Four-wheel Drive,Diesel,Automatic,6.7L I6 24V DDI OHV Turbo Diesel,3C6UR5DL0NG204316
