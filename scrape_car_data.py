@@ -49,7 +49,10 @@ def scrape_car_data(page_number):
         # Add the scraping timestamp (could be useful for time series analysis)
         timestamp = datetime.now()
 
-        car_data.append([car_name, car_price, specs_dict.get('Mileage'), specs_dict.get('Exterior color'), specs_dict.get('Interior color'), specs_dict.get('Drivetrain'), specs_dict.get('Fuel type'), specs_dict.get('Transmission'), specs_dict.get('Engine'), specs_dict.get('VIN'), timestamp])
+        # Add the source
+        scrape_source = "Cars.com"
+
+        car_data.append([car_name, car_price, specs_dict.get('Mileage'), specs_dict.get('Exterior color'), specs_dict.get('Interior color'), specs_dict.get('Drivetrain'), specs_dict.get('Fuel type'), specs_dict.get('Transmission'), specs_dict.get('Engine'), specs_dict.get('VIN'), timestamp, scrape_source])
 
         # Add a randomized delay between requests to avoid getting blocked
         time.sleep(random.uniform(1, 3))  # Random delay between 1 and 3 seconds
@@ -70,5 +73,5 @@ print(f"Total car data: {all_car_data}")
 #Write the data to a CSV file
 with open('car_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(["Car Name", "Car Price", "Car Mileage", "Exterior Color", "Interior Color", "Drivetrain", "Fuel Type", "Transmission", "Engine", "VIN"])  # write the header
+    writer.writerow(["Car Name", "Car Price", "Car Mileage", "Exterior Color", "Interior Color", "Drivetrain", "Fuel Type", "Transmission", "Engine", "VIN", "TimeStamp", "Source"])  # write the header
     writer.writerows(all_car_data)  # write the data
