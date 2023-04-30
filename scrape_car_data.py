@@ -7,8 +7,17 @@ from datetime import datetime
 from fake_useragent import UserAgent
 
 
-#Define pages to scrape here
-pages_to_scrape = 100
+# Define pages to scrape here
+pages_to_scrape = 1
+
+# Define variables for csv naming
+now = datetime.now()
+
+#Format the date and time as a string to include in file name
+date_string = now.strftime("%m-%d-%Y--%H%M%S")
+
+# Define file name with date string
+filename = f"car_data_{date_string}.csv"
 
 ua = UserAgent()
 
@@ -63,19 +72,19 @@ def scrape_car_data(page_number):
 
     return car_data
 
-#Scrape data from the first 30 pages.
+#Scrape data
 all_car_data = []
-for page_number in range(1, pages_to_scrape +1):
+for page_number in range(1, pages_to_scrape + 1):
+    print(f"Scraping page {page_number}...")
     car_data = scrape_car_data(page_number)
     all_car_data.extend(car_data)  # Add the data from this page to the total
-    print(f"Page {page_number} car data: {car_data}")
-    time.sleep(5)  # Wait for 5 seconds
-
-print(f"Total car data: {all_car_data}")
+    print(f"Page {page_number} scraped successfully")
+    time.sleep(random.uniform(1, 7))  # Wait for random delay between 1 and 7 seconds
 
 
 #Write the data to a CSV file
-with open('car_data.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
+with open(filename, 'w', newline='', encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
     writer.writerow(["Car Name", "Car Price", "Car Mileage", "Exterior Color", "Interior Color", "Drivetrain", "Fuel Type", "Transmission", "Engine", "VIN", "TimeStamp", "Source"])  # write the header
     writer.writerows(all_car_data)  # write the data
+    print(f"{page_number} Page/s scraped successfully")
