@@ -4,10 +4,15 @@ import time
 import csv
 import random
 from datetime import datetime
+from fake_useragent import UserAgent
+
+ua = UserAgent()
 
 def scrape_car_data(page_number):
     # Prepare the URL for including the page_number
     url = f"https://www.cars.com/shopping/results/?list_price_max=&makes[]=&maximum_distance=30&models[]=&page={page_number}&stock_type=all&zip=63301"
+
+    headers = {'User-Agent': ua.random}
 
     # Send a request to the website
     response = requests.get(url)
@@ -53,7 +58,7 @@ def scrape_car_data(page_number):
 
 #Scrape data from the first 30 pages.
 all_car_data = []
-for page_number in range(1, 31):
+for page_number in range(1, 3):
     car_data = scrape_car_data(page_number)
     all_car_data.extend(car_data)  # Add the data from this page to the total
     print(f"Page {page_number} car data: {car_data}")
