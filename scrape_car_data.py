@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import csv
+import random
+from datetime import datetime
 
 def scrape_car_data(page_number):
     # Prepare the URL for including the page_number
@@ -39,10 +41,13 @@ def scrape_car_data(page_number):
             if spec_name in ['Exterior color', 'Interior color', 'Drivetrain', 'Fuel type', 'Transmission', 'Engine', 'VIN', 'Mileage']:
                 specs_dict[spec_name] = desc.text.strip()
 
-        car_data.append([car_name, car_price, specs_dict.get('Mileage'), specs_dict.get('Exterior color'), specs_dict.get('Interior color'), specs_dict.get('Drivetrain'), specs_dict.get('Fuel type'), specs_dict.get('Transmission'), specs_dict.get('Engine'), specs_dict.get('VIN')])
+        # Add the scraping timestamp (could be useful for time series analysis)
+        timestamp = datetime.now()
 
-        # Optional: add a delay between requests to avoid getting blocked
-        time.sleep(1)
+        car_data.append([car_name, car_price, specs_dict.get('Mileage'), specs_dict.get('Exterior color'), specs_dict.get('Interior color'), specs_dict.get('Drivetrain'), specs_dict.get('Fuel type'), specs_dict.get('Transmission'), specs_dict.get('Engine'), specs_dict.get('VIN'), timestamp])
+
+        # Add a randomized delay between requests to avoid getting blocked
+        time.sleep(random.uniform(1, 3))  # Random delay between 1 and 3 seconds
 
     return car_data
 
