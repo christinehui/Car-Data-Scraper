@@ -6,6 +6,10 @@ import random
 from datetime import datetime
 from fake_useragent import UserAgent
 
+
+#Define pages to scrape here
+pages_to_scrape = 100
+
 ua = UserAgent()
 
 def scrape_car_data(page_number):
@@ -61,7 +65,7 @@ def scrape_car_data(page_number):
 
 #Scrape data from the first 30 pages.
 all_car_data = []
-for page_number in range(1, 3):
+for page_number in range(1, pages_to_scrape +1):
     car_data = scrape_car_data(page_number)
     all_car_data.extend(car_data)  # Add the data from this page to the total
     print(f"Page {page_number} car data: {car_data}")
