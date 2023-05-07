@@ -8,7 +8,7 @@ from fake_useragent import UserAgent
 
 
 # Define pages to scrape here
-pages_to_scrape = 100
+pages_to_scrape = 10000
 
 # Define variables for csv naming
 now = datetime.now()
